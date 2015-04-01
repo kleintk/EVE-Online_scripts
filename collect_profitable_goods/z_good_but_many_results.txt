@@ -1,0 +1,1150 @@
+Micro Shield Extender II (ID: 3851)                                    EK:       5,000,000   VK:     199,999,900    Differenz:     194,999,900
+Shield Recharger II (ID: 394)                                          EK:         110,001   VK:         138,998    Differenz:          28,997
+Small Shield Booster II (ID: 400)                                      EK:         141,522   VK:         184,487    Differenz:          42,965
+Small Remote Shield Booster II (ID: 3588)                              EK:         250,000   VK:         448,900    Differenz:         198,900
+Large Remote Shield Booster II (ID: 3608)                              EK:         856,001   VK:       1,311,546    Differenz:         455,545
+Dual Heavy Beam Laser II (ID: 2985)                                    EK:       1,550,108   VK:       2,099,995    Differenz:         549,887
+Dual Light Beam Laser II (ID: 2993)                                    EK:         545,088   VK:         950,000    Differenz:         404,912
+Focused Medium Beam Laser II (ID: 3009)                                EK:         910,148   VK:       1,189,697    Differenz:         279,549
+Small Focused Beam Laser II (ID: 3033)                                 EK:         452,001   VK:         625,000    Differenz:         172,999
+Quad Light Beam Laser II (ID: 3285)                                    EK:         500,002   VK:         800,000    Differenz:         299,998
+Dual Heavy Pulse Laser II (ID: 4147)                                   EK:         908,101   VK:       1,195,000    Differenz:         286,899
+150mm Light AutoCannon II (ID: 2881)                                   EK:         208,802   VK:         314,899    Differenz:         106,097
+650mm Artillery Cannon II (ID: 2921)                                   EK:         950,011   VK:       1,499,775    Differenz:         549,764
+720mm Howitzer Artillery II (ID: 2969)                                 EK:         655,194   VK:         999,982    Differenz:         344,788
+Micro Capacitor Battery II (ID: 3480)                                  EK:      92,000,000   VK:     198,799,999    Differenz:     106,799,999
+Medium Capacitor Battery II (ID: 3496)                                 EK:         750,943   VK:       1,450,000    Differenz:         699,057
+Large Capacitor Battery II (ID: 3504)                                  EK:       1,098,212   VK:       1,699,999    Differenz:         601,787
+Small Hull Repairer II (ID: 2355)                                      EK:         250,004   VK:         999,952    Differenz:         749,948
+Medium Hull Repairer II (ID: 3655)                                     EK:         811,024   VK:       1,492,943    Differenz:         681,919
+Large Hull Repairer II (ID: 3665)                                      EK:       1,500,073   VK:       1,947,992    Differenz:         447,918
+Small Remote Capacitor Transmitter II (ID: 1190)                       EK:          51,177   VK:         477,995    Differenz:         426,818
+Medium Remote Capacitor Transmitter II (ID: 12221)                     EK:         630,010   VK:       1,314,949    Differenz:         684,939
+Heavy Nosferatu II (ID: 12263)                                         EK:       2,752,122   VK:       3,743,700    Differenz:         991,578
+Small Proton Smartbomb II (ID: 1549)                                   EK:         100,100   VK:         872,988    Differenz:         772,888
+Small Graviton Smartbomb II (ID: 1553)                                 EK:         325,334   VK:       1,000,000    Differenz:         674,666
+Small Plasma Smartbomb II (ID: 1559)                                   EK:         100,000   VK:         734,000    Differenz:         634,000
+Small EMP Smartbomb II (ID: 1565)                                      EK:         151,003   VK:         230,000    Differenz:          78,997
+Micro Plasma Smartbomb II (ID: 3909)                                   EK:       2,000,000   VK:     230,000,000    Differenz:     228,000,000
+Medium Proton Smartbomb II (ID: 3939)                                  EK:         350,001   VK:       1,199,979    Differenz:         849,979
+Medium Plasma Smartbomb II (ID: 3949)                                  EK:         500,002   VK:       1,393,980    Differenz:         893,978
+Medium EMP Smartbomb II (ID: 3955)                                     EK:         300,126   VK:         724,999    Differenz:         424,873
+Large Proton Smartbomb II (ID: 3979)                                   EK:       1,500,000   VK:       1,899,990    Differenz:         399,990
+Large Graviton Smartbomb II (ID: 3983)                                 EK:       1,113,316   VK:       1,998,919    Differenz:         885,603
+Large Plasma Smartbomb II (ID: 3989)                                   EK:       1,500,011   VK:       3,299,979    Differenz:       1,799,968
+Large EMP Smartbomb II (ID: 3995)                                      EK:       1,400,057   VK:       1,784,995    Differenz:         384,938
+Dual 250mm Railgun II (ID: 3114)                                       EK:       1,128,600   VK:       1,490,000    Differenz:         361,400
+Electron Blaster Cannon II (ID: 3122)                                  EK:       1,613,100   VK:       2,042,999    Differenz:         429,899
+200mm Railgun II (ID: 12346)                                           EK:         927,017   VK:       1,547,794    Differenz:         620,776
+350mm Railgun II (ID: 12356)                                           EK:       1,219,602   VK:       1,875,989    Differenz:         656,387
+Micro Capacitor Booster II (ID: 3558)                                  EK:      61,640,010   VK:     368,000,000    Differenz:     306,359,990
+Passive Targeter II (ID: 2341)                                         EK:         957,148   VK:       1,319,899    Differenz:         362,751
+Auto Targeting System II (ID: 1436)                                    EK:         849,139   VK:       1,094,998    Differenz:         245,859
+EM Plating II (ID: 1198)                                               EK:          30,000   VK:          87,998    Differenz:          57,998
+Explosive Plating II (ID: 1266)                                        EK:         125,050   VK:         224,899    Differenz:          99,849
+Kinetic Plating II (ID: 1286)                                          EK:         219,000   VK:         293,987    Differenz:          74,987
+Thermic Plating II (ID: 1296)                                          EK:           8,001   VK:          80,001    Differenz:          72,000
+ECM - Ion Field Projector II (ID: 2563)                                EK:       1,300,001   VK:       1,674,998    Differenz:         374,997
+ECM - Multispectral Jammer II (ID: 2567)                               EK:         760,000   VK:       1,300,000    Differenz:         540,000
+ECM - Spatial Destabilizer II (ID: 2571)                               EK:         467,004   VK:         635,899    Differenz:         168,895
+ECM - White Noise Generator II (ID: 2575)                              EK:         375,302   VK:         539,998    Differenz:         164,696
+ECCM - Omni II (ID: 2258)                                              EK:         752,021   VK:       1,009,862    Differenz:         257,841
+ECCM - Ladar II (ID: 2260)                                             EK:         703,012   VK:         925,370    Differenz:         222,357
+ECCM - Magnetometric II (ID: 2261)                                     EK:         703,010   VK:         979,900    Differenz:         276,890
+ECCM - Radar II (ID: 2262)                                             EK:         825,001   VK:       1,220,501    Differenz:         395,499
+Gravimetric Backup Array II (ID: 2580)                                 EK:         504,000   VK:         809,981    Differenz:         305,981
+Ladar Backup Array II (ID: 2584)                                       EK:         155,024   VK:         443,953    Differenz:         288,930
+Magnetometric Backup Array II (ID: 2588)                               EK:          51,000   VK:         148,369    Differenz:          97,369
+Multi Sensor Backup Array II (ID: 2592)                                EK:         400,000   VK:       1,286,987    Differenz:         886,987
+RADAR Backup Array II (ID: 4014)                                       EK:          58,000   VK:         300,000    Differenz:         242,000
+Explosive Deflection Amplifier II (ID: 2531)                           EK:         445,041   VK:         558,000    Differenz:         112,959
+Mining Foreman Link - Harvester Capacitor Efficiency II (ID: 4274)     EK:       1,525,005   VK:       2,124,998    Differenz:         599,993
+Siege Warfare Link - Active Shielding II (ID: 4280)                    EK:       2,450,009   VK:       3,636,985    Differenz:       1,186,976
+Skirmish Warfare Link - Evasive Maneuvers II (ID: 4286)                EK:       1,500,012   VK:       1,999,498    Differenz:         499,486
+Skirmish Warfare Link - Interdiction Maneuvers II (ID: 4288)           EK:       1,500,005   VK:       2,187,992    Differenz:         687,987
+Energized Kinetic Membrane II (ID: 11249)                              EK:         250,119   VK:         600,000    Differenz:         349,881
+Energized Thermic Membrane II (ID: 11259)                              EK:         395,021   VK:         537,994    Differenz:         142,973
+50mm Reinforced Steel Plates II (ID: 20343)                            EK:          50,500   VK:         158,897    Differenz:         108,397
+100mm Reinforced Steel Plates II (ID: 20345)                           EK:          90,012   VK:         299,997    Differenz:         209,985
+Target Painter II (ID: 19806)                                          EK:         721,012   VK:         946,950    Differenz:         225,938
+Modulated Deep Core Miner II (ID: 18068)                               EK:       1,055,011   VK:       1,498,000    Differenz:         442,989
+Signal Distortion Amplifier II (ID: 25563)                             EK:       1,300,004   VK:       1,799,988    Differenz:         499,984
+Triage Module II (ID: 4294)                                            EK:      70,039,000   VK:      89,999,999    Differenz:      19,960,999
+Relic Analyzer II (ID: 30832)                                          EK:         709,000   VK:         900,000    Differenz:         191,000
+Large Remote Hull Repairer II (ID: 3986)                               EK:         500,000   VK:       1,979,418    Differenz:       1,479,418
+Medium Remote Hull Repairer II (ID: 4296)                              EK:         705,009   VK:       1,199,890    Differenz:         494,882
+Small Remote Hull Repairer II (ID: 4299)                               EK:         110,101   VK:       2,300,000    Differenz:       2,189,899
+Capital Tractor Beam II (ID: 4252)                                     EK:      15,671,285   VK:      51,000,000    Differenz:      35,328,715
+Shield Flux Coil II (ID: 1256)                                         EK:         453,007   VK:         639,900    Differenz:         186,893
+Large Anti-Kinetic Pump II (ID: 26290)                                 EK:      88,056,003   VK:     111,000,000    Differenz:      22,943,997
+Large Nanobot Accelerator II (ID: 26296)                               EK:      78,744,002   VK:     129,499,000    Differenz:      50,754,998
+Small Anti-EM Pump II (ID: 31003)                                      EK:       4,610,000   VK:      10,493,765    Differenz:       5,883,765
+Medium Anti-EM Pump II (ID: 31005)                                     EK:      10,250,005   VK:      17,583,950    Differenz:       7,333,946
+Capital Anti-EM Pump II (ID: 31007)                                    EK:      34,032,347   VK:     349,999,999    Differenz:     315,967,652
+Capital Anti-Explosive Pump II (ID: 31019)                             EK:      39,856,901   VK:     590,000,000    Differenz:     550,143,099
+Small Anti-Kinetic Pump II (ID: 31027)                                 EK:       4,810,000   VK:       8,701,810    Differenz:       3,891,810
+Medium Anti-Kinetic Pump II (ID: 31029)                                EK:      14,516,006   VK:      21,799,935    Differenz:       7,283,929
+Capital Anti-Thermic Pump II (ID: 31043)                               EK:       1,340,951   VK:     600,000,000    Differenz:     598,659,049
+Small Nanobot Accelerator II (ID: 31069)                               EK:       3,100,000   VK:       6,870,004    Differenz:       3,770,004
+Small Remote Repair Augmentor II (ID: 31077)                           EK:       4,760,000   VK:       8,464,420    Differenz:       3,704,420
+Capital Remote Repair Augmentor II (ID: 31081)                         EK:           2,000   VK:     750,000,000    Differenz:     749,998,000
+Small Transverse Bulkhead II (ID: 33892)                               EK:       2,000,104   VK:       4,999,999    Differenz:       2,999,895
+Medium Transverse Bulkhead II (ID: 33896)                              EK:       7,001,002   VK:      12,998,992    Differenz:       5,997,990
+Capital Transverse Bulkhead II (ID: 33904)                             EK:      86,946,046   VK:     156,389,000    Differenz:      69,442,954
+Large Anti-Explosive Screen Reinforcer II (ID: 26438)                  EK:      11,003,045   VK:      19,798,615    Differenz:       8,795,570
+Large Core Defense Capacitor Safeguard II (ID: 26444)                  EK:      12,020,000   VK:      16,089,977    Differenz:       4,069,977
+Large Core Defense Charge Economizer II (ID: 26446)                    EK:       2,000,000   VK:       8,995,423    Differenz:       6,995,423
+Small Anti-EM Screen Reinforcer II (ID: 31722)                         EK:       1,950,000   VK:       2,699,989    Differenz:         749,989
+Capital Anti-EM Screen Reinforcer II (ID: 31726)                       EK:      26,000,000   VK:      78,997,990    Differenz:      52,997,990
+Small Anti-Explosive Screen Reinforcer II (ID: 31734)                  EK:       2,000,000   VK:       4,499,998    Differenz:       2,499,998
+Medium Anti-Explosive Screen Reinforcer II (ID: 31736)                 EK:       5,100,322   VK:       6,761,999    Differenz:       1,661,677
+Capital Anti-Explosive Screen Reinforcer II (ID: 31738)                EK:       2,247,001   VK:      84,000,000    Differenz:      81,752,999
+Small Anti-Kinetic Screen Reinforcer II (ID: 31746)                    EK:       1,200,000   VK:       2,333,698    Differenz:       1,133,697
+Capital Anti-Kinetic Screen Reinforcer II (ID: 31750)                  EK:      24,999,991   VK:      83,800,000    Differenz:      58,800,009
+Capital Anti-Thermal Screen Reinforcer II (ID: 31762)                  EK:      16,500,000   VK:      83,999,999    Differenz:      67,499,999
+Small Core Defense Capacitor Safeguard II (ID: 31770)                  EK:       4,000,000   VK:       6,799,000    Differenz:       2,799,000
+Medium Core Defense Capacitor Safeguard II (ID: 31772)                 EK:       6,100,005   VK:       7,988,188    Differenz:       1,888,183
+Capital Core Defense Capacitor Safeguard II (ID: 31774)                EK:      37,899,999   VK:      50,000,000    Differenz:      12,100,001
+Small Core Defense Charge Economizer II (ID: 31782)                    EK:          10,000   VK:       4,299,995    Differenz:       4,289,995
+Medium Core Defense Charge Economizer II (ID: 31784)                   EK:       5,400,114   VK:       7,025,089    Differenz:       1,624,975
+Capital Core Defense Charge Economizer II (ID: 31786)                  EK:         100,001   VK:     500,000,000    Differenz:     499,899,999
+Capital Core Defense Field Extender II (ID: 31798)                     EK:      47,500,000   VK:     426,999,998    Differenz:     379,499,998
+Small Core Defense Field Purger II (ID: 31810)                         EK:       4,700,000   VK:       6,298,869    Differenz:       1,598,869
+Capital Core Defense Field Purger II (ID: 31814)                       EK:       3,910,000   VK:     390,999,984    Differenz:     387,089,984
+Small Core Defense Operational Solidifier II (ID: 31822)               EK:       2,145,007   VK:       6,997,698    Differenz:       4,852,691
+Medium Core Defense Operational Solidifier II (ID: 31824)              EK:      10,000,156   VK:      21,799,999    Differenz:      11,799,843
+Large Energy Discharge Elutriation II (ID: 26378)                      EK:       9,305,000   VK:      12,000,000    Differenz:       2,695,000
+Large Energy Burst Aerator II (ID: 26380)                              EK:      21,000,000   VK:      26,688,996    Differenz:       5,688,996
+Large Energy Collision Accelerator II (ID: 26382)                      EK:       2,000,500   VK:      20,000,397    Differenz:      17,999,897
+Large Energy Locus Coordinator II (ID: 26388)                          EK:       5,000,005   VK:      16,065,121    Differenz:      11,065,116
+Large Energy Metastasis Adjuster II (ID: 26390)                        EK:       4,000,000   VK:      18,000,000    Differenz:      14,000,000
+Small Algid Energy Administrations Unit II (ID: 31424)                 EK:         657,421   VK:         900,000    Differenz:         242,579
+Medium Algid Energy Administrations Unit II (ID: 31426)                EK:         250,000   VK:       2,900,000    Differenz:       2,650,000
+Capital Algid Energy Administrations Unit II (ID: 31428)               EK:         200,000   VK:     150,000,000    Differenz:     149,800,000
+Small Energy Ambit Extension II (ID: 31436)                            EK:       2,750,000   VK:       3,650,000    Differenz:         900,000
+Medium Energy Ambit Extension II (ID: 31438)                           EK:         145,654   VK:       2,999,995    Differenz:       2,854,341
+Small Energy Burst Aerator II (ID: 31448)                              EK:       1,250,000   VK:       1,796,999    Differenz:         546,999
+Medium Energy Burst Aerator II (ID: 31450)                             EK:       2,250,001   VK:       5,994,990    Differenz:       3,744,989
+Capital Energy Burst Aerator II (ID: 31452)                            EK:      10,000,081   VK:     177,999,999    Differenz:     167,999,918
+Small Energy Collision Accelerator II (ID: 31460)                      EK:       1,121,251   VK:       1,999,980    Differenz:         878,729
+Medium Energy Collision Accelerator II (ID: 31462)                     EK:       2,075,000   VK:       4,079,798    Differenz:       2,004,798
+Capital Energy Collision Accelerator II (ID: 31464)                    EK:      83,299,999   VK:     249,998,989    Differenz:     166,698,990
+Small Energy Discharge Elutriation II (ID: 31472)                      EK:         264,746   VK:       1,128,583    Differenz:         863,837
+Medium Energy Discharge Elutriation II (ID: 31474)                     EK:       1,250,000   VK:       2,437,835    Differenz:       1,187,835
+Capital Energy Discharge Elutriation II (ID: 31476)                    EK:         230,000   VK:     159,999,999    Differenz:     159,769,999
+Small Energy Locus Coordinator II (ID: 31484)                          EK:       1,550,000   VK:       1,999,999    Differenz:         449,999
+Capital Energy Locus Coordinator II (ID: 31488)                        EK:      92,000,000   VK:     211,999,999    Differenz:     119,999,999
+Small Energy Metastasis Adjuster II (ID: 31496)                        EK:       3,000,001   VK:       5,598,996    Differenz:       2,598,995
+Medium Energy Metastasis Adjuster II (ID: 31498)                       EK:       3,400,000   VK:       4,999,985    Differenz:       1,599,985
+Capital Energy Metastasis Adjuster II (ID: 31500)                      EK:      75,999,999   VK:     259,889,889    Differenz:     183,889,890
+Large Hybrid Discharge Elutriation II (ID: 26392)                      EK:       7,500,000   VK:      23,499,885    Differenz:      15,999,884
+Large Hybrid Collision Accelerator II (ID: 26396)                      EK:      21,638,001   VK:      40,077,994    Differenz:      18,439,992
+Large Algid Hybrid Administrations Unit II (ID: 26398)                 EK:      10,000,000   VK:      21,200,000    Differenz:      11,200,000
+Large Hybrid Ambit Extension II (ID: 26400)                            EK:      18,019,704   VK:      34,899,999    Differenz:      16,880,295
+Large Hybrid Locus Coordinator II (ID: 26402)                          EK:      21,005,000   VK:      33,979,888    Differenz:      12,974,888
+Large Hybrid Metastasis Adjuster II (ID: 26404)                        EK:       3,036,616   VK:      29,995,844    Differenz:      26,959,228
+Small Algid Hybrid Administrations Unit II (ID: 31508)                 EK:         150,000   VK:       2,248,999    Differenz:       2,098,999
+Medium Algid Hybrid Administrations Unit II (ID: 31510)                EK:       1,000,000   VK:       4,284,413    Differenz:       3,284,412
+Small Hybrid Ambit Extension II (ID: 31520)                            EK:         612,177   VK:       1,999,974    Differenz:       1,387,797
+Medium Hybrid Ambit Extension II (ID: 31522)                           EK:       3,425,000   VK:       5,899,514    Differenz:       2,474,513
+Capital Hybrid Ambit Extension II (ID: 31524)                          EK:      30,000,002   VK:     299,999,999    Differenz:     269,999,997
+Small Hybrid Burst Aerator II (ID: 31532)                              EK:       1,426,648   VK:       1,999,000    Differenz:         572,352
+Medium Hybrid Burst Aerator II (ID: 31534)                             EK:       3,999,736   VK:       5,897,375    Differenz:       1,897,639
+Capital Hybrid Burst Aerator II (ID: 31536)                            EK:      19,999,999   VK:     218,798,989    Differenz:     198,798,990
+Medium Hybrid Collision Accelerator II (ID: 31546)                     EK:       3,500,000   VK:       5,869,998    Differenz:       2,369,998
+Capital Hybrid Collision Accelerator II (ID: 31548)                    EK:     113,000,000   VK:     190,999,996    Differenz:      77,999,996
+Small Hybrid Discharge Elutriation II (ID: 31556)                      EK:         900,000   VK:       3,800,000    Differenz:       2,900,000
+Medium Hybrid Locus Coordinator II (ID: 31570)                         EK:       4,438,003   VK:       5,999,894    Differenz:       1,561,891
+Capital Hybrid Locus Coordinator II (ID: 31572)                        EK:      51,810,000   VK:     196,999,990    Differenz:     145,189,990
+Small Hybrid Metastasis Adjuster II (ID: 31580)                        EK:       1,000,000   VK:       1,999,979    Differenz:         999,979
+Medium Hybrid Metastasis Adjuster II (ID: 31582)                       EK:       3,333,334   VK:      10,195,998    Differenz:       6,862,664
+Capital Hybrid Metastasis Adjuster II (ID: 31584)                      EK:      20,003,502   VK:     178,000,000    Differenz:     157,996,498
+Large Projectile Collision Accelerator II (ID: 26424)                  EK:       4,000,000   VK:      19,999,999    Differenz:      15,999,999
+Large Projectile Ambit Extension II (ID: 26428)                        EK:      20,307,480   VK:      29,999,950    Differenz:       9,692,470
+Large Projectile Locus Coordinator II (ID: 26432)                      EK:      10,000,000   VK:      30,999,980    Differenz:      20,999,980
+Small Projectile Ambit Extension II (ID: 31662)                        EK:         900,021   VK:       1,572,000    Differenz:         671,979
+Capital Projectile Ambit Extension II (ID: 31666)                      EK:      66,000,000   VK:     189,999,998    Differenz:     123,999,998
+Medium Projectile Burst Aerator II (ID: 31676)                         EK:       3,200,126   VK:       6,486,729    Differenz:       3,286,603
+Medium Projectile Collision Accelerator II (ID: 31688)                 EK:       3,125,001   VK:       5,996,988    Differenz:       2,871,987
+Capital Projectile Collision Accelerator II (ID: 31690)                EK:      30,000,000   VK:     146,995,000    Differenz:     116,995,000
+Small Projectile Locus Coordinator II (ID: 31698)                      EK:       1,250,001   VK:       3,199,979    Differenz:       1,949,978
+Medium Projectile Locus Coordinator II (ID: 31700)                     EK:       3,125,000   VK:       4,999,979    Differenz:       1,874,979
+Small Projectile Metastasis Adjuster II (ID: 31710)                    EK:       2,000,001   VK:       3,496,952    Differenz:       1,496,951
+Medium Projectile Metastasis Adjuster II (ID: 31712)                   EK:       5,400,001   VK:       8,787,418    Differenz:       3,387,417
+Capital Projectile Metastasis Adjuster II (ID: 31714)                  EK:      55,199,290   VK:     109,300,000    Differenz:      54,100,710
+Large Drone Durability Enhancer II (ID: 26326)                         EK:      50,000,001   VK:     149,999,998    Differenz:      99,999,996
+Large Drone Mining Augmentor II (ID: 26328)                            EK:      60,002,006   VK:      95,000,000    Differenz:      34,997,994
+Large Drone Repair Augmentor II (ID: 26330)                            EK:      18,791,760   VK:      31,000,000    Differenz:      12,208,240
+Large Drone Scope Chip II (ID: 26332)                                  EK:      46,000,000   VK:      62,503,498    Differenz:      16,503,498
+Large Drone Speed Augmentor II (ID: 26334)                             EK:      40,003,430   VK:      57,999,895    Differenz:      17,996,465
+Large Sentry Damage Augmentor II (ID: 26338)                           EK:      60,001,000   VK:      80,499,979    Differenz:      20,498,979
+Small Drone Control Range Augmentor II (ID: 32029)                     EK:       2,250,000   VK:       7,000,000    Differenz:       4,750,000
+Medium Drone Control Range Augmentor II (ID: 32031)                    EK:       4,200,000   VK:      16,994,714    Differenz:      12,794,714
+Small Drone Durability Enhancer II (ID: 32037)                         EK:       9,000,000   VK:      16,555,555    Differenz:       7,555,555
+Medium Drone Durability Enhancer II (ID: 32039)                        EK:      12,622,250   VK:      17,130,250    Differenz:       4,507,999
+Small Drone Mining Augmentor II (ID: 32045)                            EK:          26,000   VK:       7,500,000    Differenz:       7,474,000
+Medium Drone Mining Augmentor II (ID: 32047)                           EK:      10,250,000   VK:      17,499,914    Differenz:       7,249,914
+Small Drone Repair Augmentor II (ID: 32053)                            EK:          10,000   VK:       5,000,000    Differenz:       4,990,000
+Medium Drone Repair Augmentor II (ID: 32055)                           EK:       4,729,000   VK:      14,528,999    Differenz:       9,799,999
+Small Drone Speed Augmentor II (ID: 32061)                             EK:         400,000   VK:      18,444,440    Differenz:      18,044,440
+Medium Drone Speed Augmentor II (ID: 32063)                            EK:      13,000,000   VK:      17,500,000    Differenz:       4,500,000
+Small Drone Scope Chip II (ID: 32073)                                  EK:          10,000   VK:       3,624,769    Differenz:       3,614,769
+Medium Drone Scope Chip II (ID: 32075)                                 EK:       6,000,024   VK:      21,992,200    Differenz:      15,992,176
+Small Sentry Damage Augmentor II (ID: 32085)                           EK:          10,000   VK:       3,399,894    Differenz:       3,389,893
+Small Stasis Drone Augmentor II (ID: 32093)                            EK:          17,014   VK:       8,299,914    Differenz:       8,282,900
+Medium Stasis Drone Augmentor II (ID: 32095)                           EK:       1,500,000   VK:      16,000,000    Differenz:      14,500,000
+Capital Drone Control Range Augmentor II (ID: 33279)                   EK:     201,025,249   VK:     299,984,993    Differenz:      98,959,744
+Capital Drone Durability Enhancer II (ID: 33283)                       EK:      10,000,000   VK:     878,999,999    Differenz:     868,999,999
+Capital Drone Scope Chip II (ID: 33295)                                EK:      45,000,000   VK:     449,998,000    Differenz:     404,998,000
+Capital Drone Speed Augmentor II (ID: 33298)                           EK:     247,900,000   VK:     330,000,000    Differenz:      82,100,000
+Capital Sentry Damage Augmentor II (ID: 33309)                         EK:       5,100,001   VK:     402,000,000    Differenz:     396,899,999
+Large Hydraulic Bay Thrusters II (ID: 26416)                           EK:      45,005,003   VK:      73,586,998    Differenz:      28,581,995
+Large Rocket Fuel Cache Partition II (ID: 26418)                       EK:      30,000,000   VK:      71,998,889    Differenz:      41,998,889
+Medium Bay Loading Accelerator II (ID: 31594)                          EK:      12,043,891   VK:      16,346,998    Differenz:       4,303,107
+Capital Bay Loading Accelerator II (ID: 31596)                         EK:      47,999,999   VK:     426,000,000    Differenz:     378,000,000
+Small Hydraulic Bay Thrusters II (ID: 31604)                           EK:       2,506,001   VK:       4,973,899    Differenz:       2,467,898
+Small Rocket Fuel Cache Partition II (ID: 31614)                       EK:       1,750,007   VK:       6,200,000    Differenz:       4,449,993
+Medium Rocket Fuel Cache Partition II (ID: 31616)                      EK:      13,465,000   VK:      17,137,745    Differenz:       3,672,745
+Small Warhead Calefaction Catalyst II (ID: 31626)                      EK:       2,005,004   VK:       3,809,998    Differenz:       1,804,994
+Medium Warhead Calefaction Catalyst II (ID: 31628)                     EK:      13,000,001   VK:      18,049,847    Differenz:       5,049,846
+Capital Warhead Calefaction Catalyst II (ID: 31630)                    EK:      44,898,131   VK:     375,000,000    Differenz:     330,101,869
+Small Warhead Flare Catalyst II (ID: 31638)                            EK:       3,500,005   VK:       4,464,743    Differenz:         964,738
+Medium Warhead Flare Catalyst II (ID: 31640)                           EK:      12,302,005   VK:      16,939,020    Differenz:       4,637,015
+Small Warhead Rigor Catalyst II (ID: 31650)                            EK:       3,598,201   VK:       5,558,108    Differenz:       1,959,907
+Capital Warhead Rigor Catalyst II (ID: 31654)                          EK:     350,000,000   VK:     580,000,000    Differenz:     230,000,000
+Medium Processor Overclocking Unit II (ID: 4399)                       EK:      12,022,235   VK:      15,493,956    Differenz:       3,471,721
+Large Processor Overclocking Unit II (ID: 4401)                        EK:      30,000,017   VK:      54,999,983    Differenz:      24,999,965
+Large Liquid Cooled Electronics II (ID: 26348)                         EK:      11,000,000   VK:      27,698,968    Differenz:      16,698,968
+Large Egress Port Maximizer II (ID: 26368)                             EK:       7,332,000   VK:      54,279,845    Differenz:      46,947,845
+Large Ancillary Current Router II (ID: 26370)                          EK:     100,110,006   VK:     163,387,909    Differenz:      63,277,903
+Large Powergrid Subroutine Maximizer II (ID: 26372)                    EK:      10,000,000   VK:      20,999,995    Differenz:      10,999,995
+Large Semiconductor Memory Cell II (ID: 26376)                         EK:      97,712,001   VK:     126,999,985    Differenz:      29,287,984
+Small Processor Overclocking Unit II (ID: 26931)                       EK:       2,100,202   VK:       3,036,999    Differenz:         936,797
+Small Liquid Cooled Electronics II (ID: 31232)                         EK:         277,000   VK:       4,899,979    Differenz:       4,622,979
+Medium Liquid Cooled Electronics II (ID: 31234)                        EK:       7,000,086   VK:       8,900,000    Differenz:       1,899,914
+Small Capacitor Control Circuit II (ID: 31376)                         EK:       4,800,191   VK:       6,083,895    Differenz:       1,283,704
+Medium Capacitor Control Circuit II (ID: 31378)                        EK:      13,091,016   VK:      16,518,619    Differenz:       3,427,603
+Small Egress Port Maximizer II (ID: 31388)                             EK:       2,001,139   VK:       3,989,975    Differenz:       1,988,836
+Capital Egress Port Maximizer II (ID: 31392)                           EK:      80,000,001   VK:     280,000,000    Differenz:     199,999,999
+Small Powergrid Subroutine Maximizer II (ID: 31400)                    EK:       2,000,000   VK:       3,294,000    Differenz:       1,294,000
+Medium Powergrid Subroutine Maximizer II (ID: 31402)                   EK:       5,000,006   VK:       7,900,000    Differenz:       2,899,994
+Small Semiconductor Memory Cell II (ID: 31412)                         EK:       5,100,000   VK:       6,888,880    Differenz:       1,788,880
+Medium Semiconductor Memory Cell II (ID: 31414)                        EK:      21,000,007   VK:      26,990,634    Differenz:       5,990,627
+Large Cargohold Optimization II (ID: 26304)                            EK:      45,999,076   VK:      60,396,998    Differenz:      14,397,922
+Large Dynamic Fuel Valve II (ID: 26306)                                EK:      15,000,006   VK:      30,000,000    Differenz:      14,999,994
+Large Engine Thermal Shielding II (ID: 26308)                          EK:      30,001,020   VK:      64,988,997    Differenz:      34,987,977
+Large Low Friction Nozzle Joints II (ID: 26310)                        EK:      18,000,100   VK:      29,099,798    Differenz:      11,099,698
+Large Polycarbon Engine Housing II (ID: 26312)                         EK:      35,000,009   VK:      62,013,574    Differenz:      27,013,565
+Large Warp Core Optimizer II (ID: 26320)                               EK:       6,000,001   VK:      25,000,000    Differenz:      18,999,999
+Medium Auxiliary Thrusters II (ID: 31113)                              EK:       3,123,123   VK:       8,229,900    Differenz:       5,106,777
+Capital Cargohold Optimization II (ID: 31127)                          EK:     120,000,000   VK:     279,000,000    Differenz:     159,000,000
+Small Dynamic Fuel Valve II (ID: 31135)                                EK:       3,001,026   VK:       5,699,979    Differenz:       2,698,953
+Medium Dynamic Fuel Valve II (ID: 31137)                               EK:       6,000,000   VK:      15,100,000    Differenz:       9,100,000
+Small Engine Thermal Shielding II (ID: 31147)                          EK:       2,600,005   VK:       7,999,960    Differenz:       5,399,955
+Medium Engine Thermal Shielding II (ID: 31149)                         EK:       7,000,020   VK:      24,444,443    Differenz:      17,444,423
+Medium Hyperspatial Velocity Optimizer II (ID: 31167)                  EK:       7,000,002   VK:       9,166,823    Differenz:       2,166,820
+Capital Hyperspatial Velocity Optimizer II (ID: 31169)                 EK:      80,000,010   VK:     127,900,000    Differenz:      47,899,990
+Small Low Friction Nozzle Joints II (ID: 31171)                        EK:       2,300,000   VK:       3,026,000    Differenz:         726,000
+Medium Low Friction Nozzle Joints II (ID: 31173)                       EK:       6,700,114   VK:       9,099,994    Differenz:       2,399,879
+Small Polycarbon Engine Housing II (ID: 31183)                         EK:       2,631,000   VK:       3,899,952    Differenz:       1,268,952
+Capital Polycarbon Engine Housing II (ID: 31187)                       EK:       5,000,000   VK:     450,000,000    Differenz:     445,000,000
+Small Warp Core Optimizer II (ID: 31195)                               EK:       1,805,800   VK:       5,740,000    Differenz:       3,934,200
+Medium Warp Core Optimizer II (ID: 31197)                              EK:       4,506,000   VK:      24,888,844    Differenz:      20,382,844
+Capital Warp Core Optimizer II (ID: 31199)                             EK:       3,256,542   VK:     438,999,999    Differenz:     435,743,457
+Large Signal Disruption Amplifier II (ID: 26344)                       EK:      12,000,001   VK:      19,900,000    Differenz:       7,899,999
+Large Particle Dispersion Augmentor II (ID: 26352)                     EK:      20,000,000   VK:      54,998,000    Differenz:      34,998,000
+Large Inverted Signal Field Projector II (ID: 26354)                   EK:      25,000,000   VK:      71,999,996    Differenz:      46,999,996
+Large Tracking Diagnostic Subroutines II (ID: 26356)                   EK:       5,000,000   VK:      25,999,978    Differenz:      20,999,978
+Large Particle Dispersion Projector II (ID: 26360)                     EK:      12,000,000   VK:      55,000,000    Differenz:      43,000,000
+Large Targeting Systems Stabilizer II (ID: 26366)                      EK:      15,000,000   VK:      27,999,999    Differenz:      12,999,999
+Small Signal Disruption Amplifier II (ID: 31256)                       EK:         516,348   VK:         836,343    Differenz:         319,995
+Medium Signal Disruption Amplifier II (ID: 31258)                      EK:       1,100,036   VK:       4,999,998    Differenz:       3,899,962
+Small Inverted Signal Field Projector II (ID: 31268)                   EK:       3,250,000   VK:      14,887,888    Differenz:      11,637,888
+Medium Inverted Signal Field Projector II (ID: 31270)                  EK:       4,100,000   VK:      30,544,444    Differenz:      26,444,444
+Small Particle Dispersion Augmentor II (ID: 31292)                     EK:       6,125,000   VK:      16,205,586    Differenz:      10,080,585
+Medium Particle Dispersion Augmentor II (ID: 31294)                    EK:       1,600,001   VK:      13,990,393    Differenz:      12,390,392
+Small Particle Dispersion Projector II (ID: 31304)                     EK:       3,250,001   VK:       9,000,000    Differenz:       5,749,999
+Small Targeting Systems Stabilizer II (ID: 31340)                      EK:       2,000,001   VK:       4,499,904    Differenz:       2,499,903
+Medium Targeting Systems Stabilizer II (ID: 31342)                     EK:      12,001,096   VK:      19,999,999    Differenz:       7,998,903
+Capital Targeting Systems Stabilizer II (ID: 31344)                    EK:              10   VK:     479,000,000    Differenz:     478,999,990
+Small Tracking Diagnostic Subroutines II (ID: 31352)                   EK:         300,001   VK:       5,000,000    Differenz:       4,699,999
+Scan Pinpointing Array II (ID: 33199)                                  EK:       1,020,000   VK:       1,279,775    Differenz:         259,775
+Survey Probe Launcher II (ID: 33272)                                   EK:         817,005   VK:       1,476,900    Differenz:         659,895
+Large Salvage Tackle II (ID: 26300)                                    EK:      30,000,008   VK:     125,000,000    Differenz:      94,999,992
+Small Salvage Tackle II (ID: 31089)                                    EK:       3,009,002   VK:       8,270,907    Differenz:       5,261,905
+Medium Emission Scope Sharpener II (ID: 31209)                         EK:       6,000,000   VK:      12,399,823    Differenz:       6,399,823
+Small Gravity Capacitor Upgrade II (ID: 31220)                         EK:       2,200,008   VK:       3,395,000    Differenz:       1,194,992
+Small Memetic Algorithm Bank II (ID: 31244)                            EK:       2,100,001   VK:       3,225,997    Differenz:       1,125,996
+Medium Memetic Algorithm Bank II (ID: 31246)                           EK:       9,100,003   VK:      12,999,978    Differenz:       3,899,975
+Small Signal Focusing Kit II (ID: 31316)                               EK:       1,500,003   VK:       5,900,000    Differenz:       4,399,997
+Medium Signal Focusing Kit II (ID: 31318)                              EK:       2,000,000   VK:       8,099,979    Differenz:       6,099,979
+Large Ionic Field Projector II (ID: 26358)                             EK:      17,000,000   VK:      42,979,976    Differenz:      25,979,976
+Small Ionic Field Projector II (ID: 31280)                             EK:       2,000,001   VK:       4,679,780    Differenz:       2,679,779
+Medium Ionic Field Projector II (ID: 31282)                            EK:       9,079,000   VK:      14,143,118    Differenz:       5,064,118
+Capital Ionic Field Projector II (ID: 31284)                           EK:      10,000,000   VK:     489,999,999    Differenz:     479,999,999
+Medium Targeting System Subcontroller II (ID: 31330)                   EK:       8,200,004   VK:      17,500,000    Differenz:       9,299,996
+Capital Targeting System Subcontroller II (ID: 31332)                  EK:      10,000,000   VK:     499,999,998    Differenz:     489,999,998
+Scan Acquisition Array II (ID: 33197)                                  EK:       1,000,100   VK:       1,299,998    Differenz:         299,898
+Guristas Mjolnir Torpedo (ID: 27337)                                   EK:           1,155   VK:           2,500    Differenz:           1,345
+Dread Guristas Mjolnir Torpedo (ID: 27341)                             EK:         115,052   VK:         202,014    Differenz:          86,962
+Guristas Scourge Torpedo (ID: 27343)                                   EK:             541   VK:             725    Differenz:             184
+Dread Guristas Scourge Torpedo (ID: 27347)                             EK:          42,100   VK:          81,998    Differenz:          39,898
+Guristas Inferno Torpedo (ID: 27349)                                   EK:           1,132   VK:           9,000    Differenz:           7,868
+Caldari Navy Inferno Torpedo (ID: 27351)                               EK:           2,267   VK:           2,974    Differenz:             707
+Dread Guristas Inferno Torpedo (ID: 27355)                             EK:         178,010   VK:         280,997    Differenz:         102,987
+Dread Guristas Nova Torpedo (ID: 27363)                                EK:         142,054   VK:         329,319    Differenz:         187,265
+Hail S (ID: 12608)                                                     EK:              71   VK:              97    Differenz:              26
+Hail M (ID: 12777)                                                     EK:             161   VK:             207    Differenz:              46
+Hail L (ID: 12779)                                                     EK:             201   VK:             256    Differenz:              55
+Gleam S (ID: 12557)                                                    EK:          85,902   VK:         150,996    Differenz:          65,094
+Aurora S (ID: 12559)                                                   EK:         164,000   VK:         222,999    Differenz:          58,999
+Scorch S (ID: 12563)                                                   EK:          45,082   VK:          60,700    Differenz:          15,618
+Quake S (ID: 12631)                                                    EK:              32   VK:              45    Differenz:              13
+Tremor S (ID: 12633)                                                   EK:              31   VK:              40    Differenz:               9
+Null L (ID: 12787)                                                     EK:             156   VK:             200    Differenz:              44
+Guristas Scourge Light Missile (ID: 27353)                             EK:             200   VK:             278    Differenz:              78
+Dread Guristas Scourge Light Missile (ID: 27365)                       EK:          20,003   VK:         149,696    Differenz:         129,692
+Guristas Inferno Light Missile (ID: 27367)                             EK:             459   VK:             749    Differenz:             290
+Dread Guristas Inferno Light Missile (ID: 27369)                       EK:         100,251   VK:         398,999    Differenz:         298,748
+Guristas Nova Light Missile (ID: 27379)                                EK:             369   VK:             555    Differenz:             186
+Guristas Mjolnir Light Missile (ID: 27383)                             EK:             505   VK:             822    Differenz:             317
+Dread Guristas Mjolnir Light Missile (ID: 27385)                       EK:         112,122   VK:         268,895    Differenz:         156,773
+Guristas Mjolnir Heavy Missile (ID: 27433)                             EK:             869   VK:           1,140    Differenz:             270
+Dread Guristas Mjolnir Heavy Missile (ID: 27437)                       EK:         101,016   VK:         298,918    Differenz:         197,902
+Guristas Scourge Heavy Missile (ID: 27439)                             EK:             687   VK:           1,200    Differenz:             513
+Dread Guristas Scourge Heavy Missile (ID: 27443)                       EK:          47,007   VK:         164,855    Differenz:         117,848
+Guristas Inferno Heavy Missile (ID: 27445)                             EK:             699   VK:           1,079    Differenz:             380
+Dread Guristas Inferno Heavy Missile (ID: 27449)                       EK:         100,116   VK:         289,450    Differenz:         189,334
+Guristas Nova Heavy Missile (ID: 27451)                                EK:             563   VK:           1,079    Differenz:             516
+Dread Guristas Nova Heavy Missile (ID: 27455)                          EK:         209,906   VK:         316,864    Differenz:         106,958
+Guristas Mjolnir Cruise Missile (ID: 27373)                            EK:             789   VK:           1,997    Differenz:           1,208
+Dread Guristas Mjolnir Cruise Missile (ID: 27389)                      EK:         129,899   VK:         173,892    Differenz:          43,993
+Guristas Scourge Cruise Missile (ID: 27391)                            EK:             717   VK:           1,645    Differenz:             928
+Dread Guristas Scourge Cruise Missile (ID: 27399)                      EK:          25,061   VK:          65,000    Differenz:          39,939
+Guristas Inferno Cruise Missile (ID: 27409)                            EK:           1,000   VK:           1,499    Differenz:             499
+Dread Guristas Inferno Cruise Missile (ID: 27425)                      EK:          89,055   VK:         250,000    Differenz:         160,945
+Guristas Nova Cruise Missile (ID: 27427)                               EK:             759   VK:           3,000    Differenz:           2,241
+Dread Guristas Nova Cruise Missile (ID: 27431)                         EK:          68,040   VK:         119,699    Differenz:          51,659
+Caldari Navy Inferno Rocket (ID: 27315)                                EK:             563   VK:             786    Differenz:             223
+Dread Guristas Inferno Rocket (ID: 27317)                              EK:          15,019   VK:          60,998    Differenz:          45,979
+Dread Guristas Mjolnir Rocket (ID: 27323)                              EK:           8,009   VK:          55,000    Differenz:          46,991
+Guristas Nova Rocket (ID: 27325)                                       EK:             272   VK:             497    Differenz:             225
+Dread Guristas Nova Rocket (ID: 27329)                                 EK:          15,002   VK:          45,000    Differenz:          29,998
+Guristas Scourge Rocket (ID: 27331)                                    EK:              68   VK:              85    Differenz:              17
+Dread Guristas Scourge Rocket (ID: 27335)                              EK:           7,710   VK:          19,500    Differenz:          11,790
+Arkonor Mining Crystal II (ID: 18590)                                  EK:         355,007   VK:         528,000    Differenz:         172,993
+Scordite Mining Crystal II (ID: 18616)                                 EK:         125,101   VK:         189,000    Differenz:          63,899
+Mjolnir Rage Rocket (ID: 2817)                                         EK:              25   VK:              77    Differenz:              52
+Mjolnir Javelin Rocket (ID: 13119)                                     EK:              12   VK:              36    Differenz:              24
+Nova Rage Rocket (ID: 24473)                                           EK:              44   VK:              87    Differenz:              43
+Inferno Rage Rocket (ID: 24475)                                        EK:              52   VK:              77    Differenz:              26
+Nova Javelin Rocket (ID: 24478)                                        EK:              28   VK:             114    Differenz:              86
+Inferno Javelin Rocket (ID: 24479)                                     EK:              25   VK:              43    Differenz:              18
+Mjolnir Fury Light Missile (ID: 2613)                                  EK:              56   VK:              72    Differenz:              16
+Inferno Precision Light Missile (ID: 2647)                             EK:              51   VK:              68    Differenz:              17
+Nova Fury Light Missile (ID: 24497)                                    EK:              44   VK:              70    Differenz:              26
+Scourge Precision Light Missile (ID: 24501)                            EK:              35   VK:              98    Differenz:              62
+Nova Precision Light Missile (ID: 24503)                               EK:              33   VK:              45    Differenz:              12
+Mjolnir Precision Light Missile (ID: 24505)                            EK:              14   VK:              49    Differenz:              35
+Nova Javelin Heavy Assault Missile (ID: 13856)                         EK:              53   VK:              77    Differenz:              24
+Nova Rage Heavy Assault Missile (ID: 24488)                            EK:              30   VK:              62    Differenz:              32
+Mjolnir Rage Heavy Assault Missile (ID: 24490)                         EK:              48   VK:              70    Differenz:              22
+Scourge Javelin Heavy Assault Missile (ID: 24492)                      EK:              60   VK:              77    Differenz:              17
+Mjolnir Javelin Heavy Assault Missile (ID: 24493)                      EK:              44   VK:              60    Differenz:              16
+Nova Fury Heavy Missile (ID: 24507)                                    EK:             204   VK:             260    Differenz:              56
+Inferno Fury Heavy Missile (ID: 24511)                                 EK:             165   VK:             235    Differenz:              70
+Mjolnir Precision Heavy Missile (ID: 24517)                            EK:             212   VK:             285    Differenz:              73
+Nova Precision Cruise Missile (ID: 24537)                              EK:             273   VK:             440    Differenz:             167
+Scourge Precision Cruise Missile (ID: 24541)                           EK:             253   VK:             325    Differenz:              72
+Inferno Rage Torpedo (ID: 2811)                                        EK:             820   VK:           1,647    Differenz:             827
+Inferno Javelin Torpedo (ID: 24525)                                    EK:             341   VK:             446    Differenz:             105
+Mjolnir Javelin Torpedo (ID: 24527)                                    EK:             447   VK:             630    Differenz:             183
+Scourge Javelin Torpedo (ID: 24529)                                    EK:             630   VK:             985    Differenz:             354
+Guristas Nova Heavy Assault Missile (ID: 27393)                        EK:             507   VK:             900    Differenz:             393
+Dread Guristas Nova Heavy Assault Missile (ID: 27397)                  EK:          65,009   VK:         150,000    Differenz:          84,991
+Guristas Inferno Heavy Assault Missile (ID: 27403)                     EK:             545   VK:             770    Differenz:             225
+Dread Guristas Inferno Heavy Assault Missile (ID: 27407)               EK:          96,016   VK:         299,999    Differenz:         203,983
+Guristas Scourge Heavy Assault Missile (ID: 27411)                     EK:             357   VK:             890    Differenz:             533
+Dread Guristas Scourge Heavy Assault Missile (ID: 27415)               EK:          20,000   VK:         120,000    Differenz:         100,000
+Guristas Mjolnir Heavy Assault Missile (ID: 27417)                     EK:             613   VK:             915    Differenz:             301
+Dread Guristas Mjolnir Heavy Assault Missile (ID: 27421)               EK:          65,189   VK:          98,387    Differenz:          33,198
+Wasp II (ID: 2436)                                                     EK:       1,023,344   VK:       1,318,000    Differenz:         294,656
+Heavy Armor Maintenance Bot II (ID: 28197)                             EK:         700,016   VK:       1,371,472    Differenz:         671,456
+Heavy Shield Maintenance Bot II (ID: 28199)                            EK:       1,111,151   VK:       1,550,000    Differenz:         438,849
+Light Shield Maintenance Bot II (ID: 28203)                            EK:         430,119   VK:         626,999    Differenz:         196,880
+Medium Armor Maintenance Bot II (ID: 28205)                            EK:         831,122   VK:       1,061,972    Differenz:         230,850
+Heavy Hull Maintenance Bot II (ID: 33708)                              EK:         750,002   VK:       1,993,876    Differenz:       1,243,874
+Medium Hull Maintenance Bot II (ID: 33710)                             EK:       1,400,000   VK:       2,889,982    Differenz:       1,489,982
+Light Hull Maintenance Bot II (ID: 33712)                              EK:         310,003   VK:         695,991    Differenz:         385,989
+Micro F-S9 Regolith Shield Induction (ID: 8505)                        EK:      26,500,000   VK:      99,990,000    Differenz:      73,490,000
+Small F-S9 Regolith Shield Induction (ID: 8521)                        EK:          80,100   VK:         170,000    Differenz:          89,900
+M51 Iterative Shield Regenerator (ID: 6485)                            EK:           2,699   VK:          48,699    Differenz:          46,000
+Small C5-L Emergency Shield Overload I (ID: 6437)                      EK:          22,000   VK:          28,900    Differenz:           6,900
+Medium C5-L Emergency Shield Overload I (ID: 10872)                    EK:          14,230   VK:          18,000    Differenz:           3,770
+Small S95a Remote Shield Booster (ID: 8537)                            EK:          45,560   VK:         139,548    Differenz:          93,988
+Micro S95a Remote Shield Booster (ID: 8633)                            EK:         600,003   VK:      24,999,954    Differenz:      24,399,951
+Eutectic Capacitor Charge Array (ID: 4435)                             EK:          90,000   VK:         190,000    Differenz:         100,000
+Scoped Cargo Scanner (ID: 6135)                                        EK:           2,000   VK:          15,000    Differenz:          13,000
+Compact Ship Scanner (ID: 6527)                                        EK:           1,103   VK:           1,500    Differenz:             397
+Scoped Survey Scanner (ID: 6569)                                       EK:           1,530   VK:           2,205    Differenz:             675
+Gatling Modulated Energy Beam I (ID: 5179)                             EK:         127,049   VK:         229,698    Differenz:         102,649
+Dual Modulated Pulse Energy Beam I (ID: 5219)                          EK:          74,015   VK:         177,555    Differenz:         103,540
+Dual Modulated Light Energy Beam I (ID: 6635)                          EK:          40,015   VK:         110,000    Differenz:          69,985
+Small Focused Modulated Pulse Energy Beam I (ID: 6675)                 EK:         366,006   VK:         650,000    Differenz:         283,994
+Small Focused Modulated Energy Beam I (ID: 6719)                       EK:         133,888   VK:         344,000    Differenz:         210,112
+Quad Modulated Light Energy Beam I (ID: 6761)                          EK:         753,204   VK:       1,311,798    Differenz:         558,594
+Focused Modulated Medium Energy Beam I (ID: 6863)                      EK:         992,013   VK:       2,283,694    Differenz:       1,291,681
+Heavy Modulated Energy Beam I (ID: 6963)                               EK:          85,204   VK:         114,000    Differenz:          28,796
+Dual Heavy Modulated Pulse Energy Beam I (ID: 7003)                    EK:          83,900   VK:         289,999    Differenz:         206,099
+125mm Light 'Scout' Autocannon I (ID: 8759)                            EK:       1,587,205   VK:       5,999,000    Differenz:       4,411,795
+150mm Light 'Scout' Autocannon I (ID: 8815)                            EK:          70,001   VK:         110,001    Differenz:          40,000
+250mm Light 'Scout' Artillery I (ID: 8903)                             EK:         160,510   VK:         300,000    Differenz:         139,490
+220mm Medium 'Scout' Autocannon I (ID: 9127)                           EK:       3,200,008   VK:       4,299,992    Differenz:       1,099,983
+650mm Medium 'Scout' Artillery I (ID: 9207)                            EK:          63,435   VK:         119,999    Differenz:          56,564
+1200mm Heavy 'Scout' Artillery I (ID: 9367)                            EK:         452,271   VK:         749,996    Differenz:         297,725
+280mm 'Scout' Artillery I (ID: 9411)                                   EK:         652,501   VK:         949,500    Differenz:         296,999
+1400mm 'Scout' Artillery I (ID: 9491)                                  EK:         981,500   VK:       1,300,000    Differenz:         318,500
+Beta Reactor Control: Shield Power Relay I (ID: 8333)                  EK:          40,005   VK:          54,981    Differenz:          14,976
+Counterbalanced Weapon Mounts I (ID: 5933)                             EK:          19,004   VK:          48,993    Differenz:          29,989
+Micro Peroxide Capacitor Power Cell (ID: 4749)                         EK:      30,000,000   VK:     143,999,989    Differenz:     113,999,989
+Small Peroxide Capacitor Power Cell (ID: 4789)                         EK:           4,800   VK:          18,000    Differenz:          13,200
+Medium Peroxide Capacitor Power Cell (ID: 6083)                        EK:           6,243   VK:          49,000    Differenz:          42,757
+Small Inefficient Hull Repair Unit (ID: 5693)                          EK:           8,000   VK:          19,000    Differenz:          11,000
+Small 'Regard' Remote Capacitor Transmitter (ID: 5091)                 EK:           4,156   VK:           6,000    Differenz:           1,844
+Small 'Vehemence' Shockwave Charge (ID: 9680)                          EK:          10,000   VK:          30,000    Differenz:          20,000
+Micro Rudimentary Concussion Bomb I (ID: 9702)                         EK:         450,000   VK:       4,999,999    Differenz:       4,549,999
+Medium 'Vehemence' Shockwave Charge (ID: 9734)                         EK:         408,000   VK:         525,000    Differenz:         117,000
+Small 'Notos' Explosive Charge I (ID: 9744)                            EK:           3,021   VK:           5,799    Differenz:           2,778
+Micro 'Notos' Explosive Charge I (ID: 9750)                            EK:         600,000   VK:      14,849,997    Differenz:      14,249,996
+Small YF-12a Smartbomb (ID: 9784)                                      EK:          10,027   VK:          24,499    Differenz:          14,472
+Micro YF-12a Smartbomb (ID: 9790)                                      EK:       7,400,000   VK:      99,938,995    Differenz:      92,538,995
+Modal Light Electron Particle Accelerator I (ID: 7487)                 EK:         168,204   VK:         542,000    Differenz:         373,796
+Modal Neutron Particle Accelerator I (ID: 7703)                        EK:         431,704   VK:         700,000    Differenz:         268,296
+Modal Mega Neutron Particle Accelerator I (ID: 7783)                   EK:         481,001   VK:         625,999    Differenz:         144,998
+Micro Electrochemical Capacitor Booster I (ID: 4959)                   EK:      14,100,139   VK:     129,999,937    Differenz:     115,899,798
+Limited Kinetic Deflection Field I (ID: 9608)                          EK:           5,340   VK:           7,799    Differenz:           2,459
+Limited 'Anointed' EM Ward Field (ID: 9622)                            EK:          19,760   VK:          27,499    Differenz:           7,739
+Limited Explosive Deflection Field I (ID: 9646)                        EK:          25,502   VK:          33,500    Differenz:           7,998
+Limited Thermic Dissipation Field I (ID: 9660)                         EK:          23,800   VK:          32,397    Differenz:           8,597
+Local Hull Conversion Reinforced Bulkheads I (ID: 5643)                EK:          10,029   VK:          28,290    Differenz:          18,261
+'Cetus' ECM Shockwave I (ID: 5365)                                     EK:          15,004   VK:          28,800    Differenz:          13,796
+Passive Targeting Array I (ID: 5867)                                   EK:             206   VK:           1,450    Differenz:           1,244
+'Refuge' Adaptive Nano Plating I (ID: 16311)                           EK:          51,338   VK:          79,998    Differenz:          28,660
+'Element' Kinetic Plating I (ID: 16327)                                EK:             941   VK:          12,000    Differenz:          11,059
+'Spiegel' EM Plating I (ID: 16335)                                     EK:           1,007   VK:           4,800    Differenz:           3,793
+Prototype Thermic Plating I (ID: 16343)                                EK:           3,501   VK:          21,999    Differenz:          18,498
+'Grail' Layered Plating I (ID: 16351)                                  EK:           2,570   VK:           5,799    Differenz:           3,229
+'Hypnos' Ion Field ECM I (ID: 19927)                                   EK:         106,178   VK:         197,788    Differenz:          91,611
+'Hypnos' Multispectral ECM I (ID: 19933)                               EK:          50,000   VK:          70,000    Differenz:          20,000
+BZ-5 Neutralizing Spatial Destabilizer ECM (ID: 19946)                 EK:         164,303   VK:         216,600    Differenz:          52,297
+'Umbra' White Noise ECM (ID: 19952)                                    EK:          43,997   VK:          79,975    Differenz:          35,978
+Prototype ECCM Radar Sensor Cluster (ID: 7892)                         EK:           1,000   VK:          15,000    Differenz:          14,000
+Prototype ECCM Gravimetric Sensor Cluster (ID: 7895)                   EK:           2,015   VK:          49,466    Differenz:          47,451
+Prototype ECCM Omni Sensor Cluster (ID: 7896)                          EK:           5,209   VK:          12,999    Differenz:           7,790
+Conjunctive Radar ECCM Scanning Array I (ID: 20218)                    EK:           6,002   VK:          34,000    Differenz:          27,998
+Conjunctive Ladar ECCM Scanning Array I (ID: 20224)                    EK:          19,673   VK:          27,499    Differenz:           7,826
+Conjunctive Gravimetric ECCM Scanning Array I (ID: 20230)              EK:          10,127   VK:          22,866    Differenz:          12,739
+Conjunctive Magnetometric ECCM Scanning Array I (ID: 20236)            EK:          40,002   VK:         129,994    Differenz:          89,992
+Surrogate Gravimetric Reserve Array I (ID: 6243)                       EK:             500   VK:           4,500    Differenz:           4,000
+Surrogate Ladar Reserve Array I (ID: 6251)                             EK:             751   VK:           1,490    Differenz:             739
+Surrogate Magnetometric Reserve Array I (ID: 6259)                     EK:           1,016   VK:           1,410    Differenz:             394
+Surrogate Multi-Frequency Reserve Array I (ID: 6267)                   EK:           1,650   VK:          13,990    Differenz:          12,340
+Surrogate RADAR Reserve Array I (ID: 6275)                             EK:             611   VK:           6,000    Differenz:           5,389
+Warded Gravimetric Backup Cluster I (ID: 20242)                        EK:          13,001   VK:          20,000    Differenz:           6,999
+Warded Ladar Backup Cluster I (ID: 20248)                              EK:          12,150   VK:          42,000    Differenz:          29,850
+Warded Radar Backup Cluster I (ID: 20264)                              EK:          13,005   VK:          19,900    Differenz:           6,895
+Phase Switching Remote Tracking Computer (ID: 5340)                    EK:             102   VK:           9,780    Differenz:           9,678
+Type-D Attenuation Signal Augmentation (ID: 6295)                      EK:          12,001   VK:          93,999    Differenz:          81,998
+Fourier Transform Tracking Program (ID: 6325)                          EK:          12,001   VK:          34,001    Differenz:          22,000
+Optical Tracking Computer I (ID: 6173)                                 EK:          30,007   VK:          48,703    Differenz:          18,696
+Phased Muon ECCM Caster I (ID: 7220)                                   EK:           9,200   VK:          20,500    Differenz:          11,300
+Upgraded Explosive Deflection Amplifier I (ID: 9556)                   EK:           1,002   VK:           2,329    Differenz:           1,327
+Upgraded Thermic Dissipation Amplifier I (ID: 9568)                    EK:           2,200   VK:           6,698    Differenz:           4,498
+Upgraded EM Ward Amplifier I (ID: 9580)                                EK:          33,000   VK:          48,500    Differenz:          15,500
+Upgraded Kinetic Deflection Amplifier I (ID: 9582)                     EK:           2,000   VK:           4,000    Differenz:           2,000
+Skirmish Warfare Link - Interdiction Maneuvers I (ID: 11017)           EK:         150,012   VK:         494,000    Differenz:         343,988
+Information Warfare Link - Sensor Integrity I (ID: 11052)              EK:         156,919   VK:       1,399,998    Differenz:       1,243,079
+Armored Warfare Link - Damage Control I (ID: 20069)                    EK:         196,051   VK:         335,987    Differenz:         139,936
+Skirmish Warfare Link - Evasive Maneuvers I (ID: 20070)                EK:         145,002   VK:       1,399,999    Differenz:       1,254,997
+Siege Warfare Link - Active Shielding I (ID: 20124)                    EK:         120,009   VK:         496,369    Differenz:         376,360
+Information Warfare Link - Recon Operation I (ID: 20405)               EK:         156,004   VK:         990,969    Differenz:         834,966
+Information Warfare Link - Electronic Superiority I (ID: 20406)        EK:         200,027   VK:         497,997    Differenz:         297,970
+Skirmish Warfare Link - Rapid Deployment I (ID: 20408)                 EK:         205,081   VK:         987,555    Differenz:         782,474
+Armored Warfare Link - Passive Defense I (ID: 20409)                   EK:         292,005   VK:         572,000    Differenz:         279,995
+Siege Warfare Link - Shield Harmonizing I (ID: 20514)                  EK:         153,005   VK:       1,250,000    Differenz:       1,096,995
+Armored Warfare Link - Rapid Repair I (ID: 22227)                      EK:         200,011   VK:       1,444,000    Differenz:       1,243,988
+Siege Warfare Link - Shield Efficiency I (ID: 22228)                   EK:         133,062   VK:         738,659    Differenz:         605,597
+Mining Foreman Link - Harvester Capacitor Efficiency I (ID: 22553)     EK:         151,023   VK:       1,156,370    Differenz:       1,005,347
+Mining Foreman Link - Mining Laser Field Enhancement I (ID: 22555)     EK:         171,008   VK:         270,000    Differenz:          98,992
+Mining Foreman Link - Laser Optimization I (ID: 22557)                 EK:         122,225   VK:         294,978    Differenz:         172,753
+Small 'Solace' Remote Armor Repairer (ID: 16439)                       EK:         118,012   VK:         249,997    Differenz:         131,985
+Prototype Energized Adaptive Nano Membrane I (ID: 16391)               EK:         178,010   VK:         318,999    Differenz:         140,989
+Prototype Energized Explosive Membrane I (ID: 16407)                   EK:          55,023   VK:         103,997    Differenz:          48,974
+Prototype Energized EM Membrane I (ID: 16415)                          EK:          60,026   VK:         177,900    Differenz:         117,874
+Prototype Energized Armor Layering Membrane I (ID: 16423)              EK:          63,599   VK:          80,000    Differenz:          16,401
+200mm Reinforced Rolled Tungsten Plates I (ID: 11349)                  EK:          66,001   VK:          83,000    Differenz:          16,999
+Phased Weapon Navigation Array Generation Extron (ID: 19814)           EK:         410,349   VK:         899,900    Differenz:         489,551
+Festival Launcher (ID: 19660)                                          EK:          26,005   VK:         149,999    Differenz:         123,994
+'Arbalest' Cruise Launcher I (ID: 16519)                               EK:          25,000   VK:          35,950    Differenz:          10,950
+'Hypnos' Signal Distortion Amplifier I (ID: 25565)                     EK:          57,200   VK:          79,947    Differenz:          22,747
+'Limos' Citadel Cruise Launcher I (ID: 3563)                           EK:     140,762,225   VK:     179,994,819    Differenz:      39,232,593
+Shock 'Limos' Citadel Torpedo Bay I (ID: 3565)                         EK:     161,188,456   VK:     233,898,899    Differenz:      72,710,443
+Aoede Mining Laser Upgrade (ID: 22615)                                 EK:     521,625,029   VK:     854,999,922    Differenz:     333,374,893
+Ingenii Ice Harvester Upgrade (ID: 22623)                              EK:     300,020,000   VK:     434,999,998    Differenz:     134,979,998
+Large Remote Hull Repairer I (ID: 27904)                               EK:          40,211   VK:         388,000    Differenz:         347,789
+Medium Remote Hull Repairer I (ID: 27930)                              EK:          31,311   VK:         256,875    Differenz:         225,564
+Small Remote Hull Repairer I (ID: 27932)                               EK:          38,001   VK:         150,000    Differenz:         111,999
+Capital Remote Hull Repairer I (ID: 27934)                             EK:      12,500,006   VK:      39,265,987    Differenz:      26,765,981
+Judgement (ID: 24550)                                                  EK:     210,500,036   VK:     320,901,020    Differenz:     110,400,984
+Oblivion (ID: 24552)                                                   EK:     219,026,102   VK:     560,000,000    Differenz:     340,973,898
+Aurora Ominae (ID: 24554)                                              EK:     202,060,046   VK:     348,888,000    Differenz:     146,827,954
+Drone Navigation Computer I (ID: 24395)                                EK:         200,500   VK:         590,000    Differenz:         389,500
+Drone Damage Amplifier I (ID: 4393)                                    EK:          46,017   VK:          59,000    Differenz:          12,983
+Omnidirectional Tracking Link I (ID: 23533)                            EK:           6,213   VK:          12,000    Differenz:           5,787
+Drone Link Augmentor I (ID: 23527)                                     EK:         126,002   VK:         187,888    Differenz:          61,886
+Capital Tractor Beam I (ID: 24644)                                     EK:       7,000,325   VK:      13,450,000    Differenz:       6,449,675
+'Crop' Gas Cloud Harvester (ID: 25540)                                 EK:      35,000,000   VK:      72,688,000    Differenz:      37,688,000
+Local Hull Conversion Inertial Stabilizers I (ID: 5529)                EK:          55,150   VK:          96,999    Differenz:          41,849
+Local Hull Conversion Nanofiber Structure I (ID: 5561)                 EK:          28,000   VK:          45,872    Differenz:          17,872
+Local Hull Conversion Overdrive Injector I (ID: 5627)                  EK:          15,100   VK:          30,999    Differenz:          15,899
+Local Hull Conversion Expanded Cargo I (ID: 5489)                      EK:          83,005   VK:         129,099    Differenz:          46,094
+Beta Reactor Control: Diagnostic System I (ID: 8221)                   EK:          46,306   VK:          68,000    Differenz:          21,694
+Compact Capacitor Flux Coil (ID: 8133)                                 EK:           1,600   VK:           9,489    Differenz:           7,889
+Restrained Capacitor Flux Coil (ID: 8135)                              EK:               0   VK:           3,488    Differenz:           3,488
+Beta Reactor Control: Shield Flux I (ID: 8293)                         EK:             839   VK:           3,400    Differenz:           2,561
+Prototype 'Arbalest' Heavy Assault Missile Launcher I (ID: 25707)      EK:         230,669   VK:         300,000    Differenz:          69,331
+Large Anti-Explosive Pump I (ID: 25888)                                EK:       6,670,039   VK:       8,996,995    Differenz:       2,326,956
+Large Anti-Kinetic Pump I (ID: 25890)                                  EK:       4,000,042   VK:       9,564,498    Differenz:       5,564,456
+Large Anti-Thermic Pump I (ID: 25892)                                  EK:       5,711,011   VK:       9,999,999    Differenz:       4,288,988
+Large Auxiliary Nano Pump I (ID: 25896)                                EK:       9,200,001   VK:      18,000,000    Differenz:       8,799,999
+Capital Auxiliary Nano Pump I (ID: 27064)                              EK:      31,991,113   VK:      54,999,999    Differenz:      23,008,886
+Small Remote Repair Augmentor I (ID: 27068)                            EK:         301,001   VK:         496,400    Differenz:         195,399
+Medium Anti-EM Pump I (ID: 30999)                                      EK:       1,275,003   VK:       1,702,908    Differenz:         427,905
+Capital Anti-EM Pump I (ID: 31001)                                     EK:      10,000,003   VK:      45,999,999    Differenz:      35,999,996
+Capital Anti-Explosive Pump I (ID: 31013)                              EK:      26,000,001   VK:      44,999,999    Differenz:      18,999,998
+Medium Anti-Kinetic Pump I (ID: 31023)                                 EK:       1,172,504   VK:       1,899,094    Differenz:         726,590
+Capital Anti-Kinetic Pump I (ID: 31025)                                EK:       2,000,000   VK:      42,999,999    Differenz:      40,999,999
+Small Anti-Thermic Pump I (ID: 31033)                                  EK:         350,138   VK:         509,707    Differenz:         159,569
+Small Nanobot Accelerator I (ID: 31063)                                EK:         362,000   VK:         513,300    Differenz:         151,300
+Capital Nanobot Accelerator I (ID: 31067)                              EK:      11,111,112   VK:      53,999,999    Differenz:      42,888,887
+Medium Remote Repair Augmentor I (ID: 31073)                           EK:       1,736,001   VK:       2,997,999    Differenz:       1,261,998
+Capital Remote Repair Augmentor I (ID: 31075)                          EK:      14,245,013   VK:      79,244,939    Differenz:      64,999,927
+Small Transverse Bulkhead I (ID: 33890)                                EK:         111,307   VK:         199,956    Differenz:          88,649
+Medium Transverse Bulkhead I (ID: 33894)                               EK:         559,105   VK:         795,969    Differenz:         236,864
+Capital Transverse Bulkhead I (ID: 33902)                              EK:      10,120,803   VK:      35,990,781    Differenz:      25,869,978
+Large Core Defense Capacitor Safeguard I (ID: 25906)                   EK:         111,000   VK:         368,999    Differenz:         257,999
+Large Anti-Explosive Screen Reinforcer I (ID: 26078)                   EK:         127,023   VK:         486,997    Differenz:         359,974
+Large Anti-Kinetic Screen Reinforcer I (ID: 26080)                     EK:          89,339   VK:         477,998    Differenz:         388,659
+Large Anti-Thermal Screen Reinforcer I (ID: 26082)                     EK:         152,010   VK:         629,995    Differenz:         477,985
+Large Core Defense Field Purger I (ID: 26084)                          EK:       5,000,030   VK:       7,887,995    Differenz:       2,887,966
+Large Core Defense Operational Solidifier I (ID: 26086)                EK:       5,000,014   VK:       8,000,001    Differenz:       2,999,987
+Large Core Defense Charge Economizer I (ID: 26090)                     EK:          53,000   VK:         530,000    Differenz:         477,000
+Small Anti-EM Screen Reinforcer I (ID: 31716)                          EK:          17,250   VK:          24,000    Differenz:           6,750
+Capital Anti-EM Screen Reinforcer I (ID: 31720)                        EK:         680,123   VK:       6,798,991    Differenz:       6,118,868
+Small Anti-Explosive Screen Reinforcer I (ID: 31728)                   EK:          17,310   VK:          44,090    Differenz:          26,780
+Medium Anti-Explosive Screen Reinforcer I (ID: 31730)                  EK:          30,001   VK:         100,000    Differenz:          69,999
+Small Anti-Kinetic Screen Reinforcer I (ID: 31740)                     EK:          25,435   VK:          87,999    Differenz:          62,564
+Small Anti-Thermal Screen Reinforcer I (ID: 31752)                     EK:          25,102   VK:          34,000    Differenz:           8,898
+Capital Anti-Thermal Screen Reinforcer I (ID: 31756)                   EK:       2,000,034   VK:       8,280,000    Differenz:       6,279,966
+Small Core Defense Capacitor Safeguard I (ID: 31764)                   EK:          12,000   VK:         299,999    Differenz:         287,999
+Medium Core Defense Capacitor Safeguard I (ID: 31766)                  EK:          50,000   VK:         450,000    Differenz:         400,000
+Capital Core Defense Capacitor Safeguard I (ID: 31768)                 EK:       1,499,999   VK:       7,000,000    Differenz:       5,500,001
+Medium Core Defense Charge Economizer I (ID: 31778)                    EK:          15,000   VK:          98,975    Differenz:          83,975
+Capital Core Defense Charge Economizer I (ID: 31780)                   EK:         299,998   VK:       2,999,976    Differenz:       2,699,978
+Capital Core Defense Field Extender I (ID: 31792)                      EK:      33,000,000   VK:      42,471,996    Differenz:       9,471,996
+Small Core Defense Field Purger I (ID: 31800)                          EK:          50,000   VK:         228,000    Differenz:         178,000
+Capital Core Defense Field Purger I (ID: 31804)                        EK:       8,000,001   VK:      63,999,899    Differenz:      55,999,898
+Small Core Defense Operational Solidifier I (ID: 31816)                EK:         200,005   VK:         499,959    Differenz:         299,954
+Medium Core Defense Operational Solidifier I (ID: 31818)               EK:         601,086   VK:       1,679,999    Differenz:       1,078,913
+Large Energy Discharge Elutriation I (ID: 25968)                       EK:          55,000   VK:         536,000    Differenz:         481,000
+Large Energy Locus Coordinator I (ID: 25972)                           EK:           1,000   VK:         539,885    Differenz:         538,885
+Large Energy Burst Aerator I (ID: 25978)                               EK:         250,000   VK:         629,997    Differenz:         379,997
+Large Energy Collision Accelerator I (ID: 25980)                       EK:         400,000   VK:       2,000,000    Differenz:       1,600,000
+Small Algid Energy Administrations Unit I (ID: 31418)                  EK:           1,000   VK:          34,390    Differenz:          33,390
+Medium Algid Energy Administrations Unit I (ID: 31420)                 EK:           1,000   VK:         499,999    Differenz:         498,999
+Capital Algid Energy Administrations Unit I (ID: 31422)                EK:         200,000   VK:      19,999,999    Differenz:      19,799,999
+Capital Energy Ambit Extension I (ID: 31434)                           EK:       1,411,000   VK:      39,999,998    Differenz:      38,588,998
+Small Energy Burst Aerator I (ID: 31442)                               EK:          35,000   VK:         111,998    Differenz:          76,998
+Medium Energy Burst Aerator I (ID: 31444)                              EK:          80,000   VK:         180,000    Differenz:         100,000
+Capital Energy Burst Aerator I (ID: 31446)                             EK:         322,000   VK:       9,390,000    Differenz:       9,068,000
+Small Energy Collision Accelerator I (ID: 31454)                       EK:          48,006   VK:          97,990    Differenz:          49,984
+Capital Energy Collision Accelerator I (ID: 31458)                     EK:         500,001   VK:       9,600,000    Differenz:       9,099,999
+Small Energy Discharge Elutriation I (ID: 31466)                       EK:           1,000   VK:          33,000    Differenz:          32,000
+Capital Energy Discharge Elutriation I (ID: 31470)                     EK:       2,110,000   VK:      24,979,970    Differenz:      22,869,970
+Small Energy Locus Coordinator I (ID: 31478)                           EK:          30,023   VK:         111,959    Differenz:          81,936
+Medium Energy Locus Coordinator I (ID: 31480)                          EK:          79,002   VK:         167,969    Differenz:          88,967
+Small Energy Metastasis Adjuster I (ID: 31490)                         EK:           1,512   VK:          89,990    Differenz:          88,478
+Medium Energy Metastasis Adjuster I (ID: 31492)                        EK:          70,000   VK:         137,000    Differenz:          67,000
+Large Hybrid Locus Coordinator I (ID: 26000)                           EK:         350,000   VK:         549,934    Differenz:         199,934
+Large Hybrid Metastasis Adjuster I (ID: 26002)                         EK:           6,499   VK:       6,499,999    Differenz:       6,493,500
+Large Algid Hybrid Administrations Unit I (ID: 26004)                  EK:          39,999   VK:         579,999    Differenz:         540,000
+Large Hybrid Burst Aerator I (ID: 26006)                               EK:         500,000   VK:         745,000    Differenz:         245,000
+Large Hybrid Collision Accelerator I (ID: 26008)                       EK:         120,000   VK:         599,996    Differenz:         479,996
+Small Algid Hybrid Administrations Unit I (ID: 31502)                  EK:           2,005   VK:          78,996    Differenz:          76,991
+Medium Algid Hybrid Administrations Unit I (ID: 31504)                 EK:          39,000   VK:         196,997    Differenz:         157,997
+Small Hybrid Ambit Extension I (ID: 31514)                             EK:          35,001   VK:          99,976    Differenz:          64,975
+Capital Hybrid Ambit Extension I (ID: 31518)                           EK:         199,999   VK:      14,999,999    Differenz:      14,800,000
+Medium Hybrid Burst Aerator I (ID: 31528)                              EK:          85,000   VK:         139,980    Differenz:          54,980
+Capital Hybrid Burst Aerator I (ID: 31530)                             EK:       1,000,000   VK:      17,999,996    Differenz:      16,999,996
+Small Hybrid Collision Accelerator I (ID: 31538)                       EK:          61,000   VK:          91,954    Differenz:          30,954
+Medium Hybrid Collision Accelerator I (ID: 31540)                      EK:         211,000   VK:         336,000    Differenz:         125,000
+Medium Hybrid Discharge Elutriation I (ID: 31552)                      EK:          10,000   VK:         165,999    Differenz:         155,999
+Small Hybrid Locus Coordinator I (ID: 31562)                           EK:          40,000   VK:          78,990    Differenz:          38,990
+Medium Hybrid Locus Coordinator I (ID: 31564)                          EK:          11,000   VK:         298,000    Differenz:         287,000
+Small Hybrid Metastasis Adjuster I (ID: 31574)                         EK:          13,475   VK:         124,979    Differenz:         111,504
+Medium Hybrid Metastasis Adjuster I (ID: 31576)                        EK:         199,998   VK:         299,999    Differenz:         100,000
+Large Projectile Ambit Extension I (ID: 26038)                         EK:         115,700   VK:       2,653,500    Differenz:       2,537,800
+Large Projectile Locus Coordinator I (ID: 26040)                       EK:             107   VK:         579,999    Differenz:         579,892
+Large Projectile Metastasis Adjuster I (ID: 26042)                     EK:          51,435   VK:         999,999    Differenz:         948,564
+Large Projectile Burst Aerator I (ID: 26046)                           EK:          50,001   VK:         711,098    Differenz:         661,098
+Large Projectile Collision Accelerator I (ID: 26048)                   EK:         130,000   VK:       1,260,998    Differenz:       1,130,998
+Small Projectile Ambit Extension I (ID: 31656)                         EK:          20,002   VK:          79,990    Differenz:          59,988
+Medium Projectile Ambit Extension I (ID: 31658)                        EK:          30,006   VK:         299,679    Differenz:         269,673
+Capital Projectile Ambit Extension I (ID: 31660)                       EK:         702,000   VK:       5,300,000    Differenz:       4,598,000
+Small Projectile Burst Aerator I (ID: 31668)                           EK:          20,005   VK:          44,999    Differenz:          24,994
+Medium Projectile Burst Aerator I (ID: 31670)                          EK:          75,000   VK:         149,989    Differenz:          74,989
+Small Projectile Collision Accelerator I (ID: 31680)                   EK:          54,000   VK:          95,000    Differenz:          41,000
+Capital Projectile Collision Accelerator I (ID: 31684)                 EK:       2,099,799   VK:      12,000,000    Differenz:       9,900,201
+Small Projectile Locus Coordinator I (ID: 31692)                       EK:          35,005   VK:          77,770    Differenz:          42,765
+Medium Projectile Locus Coordinator I (ID: 31694)                      EK:          10,000   VK:          90,000    Differenz:          80,000
+Capital Projectile Locus Coordinator I (ID: 31696)                     EK:         421,321   VK:       4,899,999    Differenz:       4,478,678
+Small Projectile Metastasis Adjuster I (ID: 31704)                     EK:          45,000   VK:          78,860    Differenz:          33,860
+Medium Projectile Metastasis Adjuster I (ID: 31706)                    EK:               1   VK:         240,000    Differenz:         239,999
+Large Drone Control Range Augmentor I (ID: 25908)                      EK:       1,602,880   VK:       4,399,990    Differenz:       2,797,110
+Large Drone Repair Augmentor I (ID: 25910)                             EK:          16,790   VK:       5,599,999    Differenz:       5,583,209
+Large Drone Scope Chip I (ID: 25912)                                   EK:         418,502   VK:       3,494,982    Differenz:       3,076,480
+Large Drone Speed Augmentor I (ID: 25914)                              EK:         900,002   VK:       2,899,999    Differenz:       1,999,997
+Large Drone Durability Enhancer I (ID: 25916)                          EK:       4,000,003   VK:       8,999,990    Differenz:       4,999,987
+Large Drone Mining Augmentor I (ID: 25918)                             EK:         330,333   VK:       8,949,999    Differenz:       8,619,666
+Large Sentry Damage Augmentor I (ID: 25920)                            EK:       6,000,006   VK:       8,447,989    Differenz:       2,447,983
+Large Stasis Drone Augmentor I (ID: 25924)                             EK:           1,000   VK:       6,000,000    Differenz:       5,999,000
+Small Drone Control Range Augmentor I (ID: 32025)                      EK:         100,001   VK:         999,998    Differenz:         899,997
+Medium Drone Control Range Augmentor I (ID: 32027)                     EK:         355,004   VK:         609,700    Differenz:         254,696
+Small Drone Durability Enhancer I (ID: 32033)                          EK:         100,000   VK:         449,999    Differenz:         349,999
+Medium Drone Durability Enhancer I (ID: 32035)                         EK:         180,000   VK:       2,250,000    Differenz:       2,070,000
+Small Drone Mining Augmentor I (ID: 32041)                             EK:         165,502   VK:         379,900    Differenz:         214,398
+Medium Drone Mining Augmentor I (ID: 32043)                            EK:         751,013   VK:       1,749,999    Differenz:         998,986
+Small Drone Repair Augmentor I (ID: 32049)                             EK:           1,520   VK:         297,839    Differenz:         296,319
+Medium Drone Repair Augmentor I (ID: 32051)                            EK:          23,579   VK:       1,223,449    Differenz:       1,199,870
+Small Drone Speed Augmentor I (ID: 32057)                              EK:          40,013   VK:         158,965    Differenz:         118,952
+Medium Drone Speed Augmentor I (ID: 32059)                             EK:         450,000   VK:       1,750,000    Differenz:       1,300,000
+Small Drone Scope Chip I (ID: 32069)                                   EK:         150,000   VK:         224,998    Differenz:          74,998
+Medium Drone Scope Chip I (ID: 32071)                                  EK:         151,002   VK:         749,871    Differenz:         598,869
+Small Sentry Damage Augmentor I (ID: 32081)                            EK:          55,000   VK:         599,977    Differenz:         544,977
+Medium Sentry Damage Augmentor I (ID: 32083)                           EK:       1,372,005   VK:       3,790,000    Differenz:       2,417,995
+Small Stasis Drone Augmentor I (ID: 32089)                             EK:           1,501   VK:         445,000    Differenz:         443,499
+Medium Stasis Drone Augmentor I (ID: 32091)                            EK:             100   VK:       1,999,999    Differenz:       1,999,899
+Capital Drone Control Range Augmentor I (ID: 33277)                    EK:      10,111,122   VK:      29,999,898    Differenz:      19,888,776
+Capital Drone Durability Enhancer I (ID: 33281)                        EK:      30,000,789   VK:      74,999,991    Differenz:      44,999,202
+Capital Drone Scope Chip I (ID: 33293)                                 EK:       1,500,000   VK:      13,299,980    Differenz:      11,799,980
+Capital Drone Speed Augmentor I (ID: 33297)                            EK:      12,691,118   VK:      19,199,972    Differenz:       6,508,854
+Large Hydraulic Bay Thrusters I (ID: 26016)                            EK:       5,300,072   VK:       8,599,999    Differenz:       3,299,927
+Large Warhead Rigor Catalyst I (ID: 26020)                             EK:       6,611,000   VK:      10,499,998    Differenz:       3,888,998
+Large Rocket Fuel Cache Partition I (ID: 26022)                        EK:       4,000,011   VK:       7,998,997    Differenz:       3,998,986
+Large Bay Loading Accelerator I (ID: 26026)                            EK:       5,349,018   VK:       7,700,002    Differenz:       2,350,984
+Large Warhead Flare Catalyst I (ID: 26028)                             EK:       4,272,455   VK:       7,399,999    Differenz:       3,127,544
+Medium Bay Loading Accelerator I (ID: 31588)                           EK:       1,261,140   VK:       1,590,000    Differenz:         328,860
+Small Rocket Fuel Cache Partition I (ID: 31608)                        EK:         300,001   VK:         415,561    Differenz:         115,560
+Medium Rocket Fuel Cache Partition I (ID: 31610)                       EK:         350,000   VK:       2,140,980    Differenz:       1,790,980
+Medium Warhead Calefaction Catalyst I (ID: 31622)                      EK:       1,316,015   VK:       1,893,999    Differenz:         577,984
+Capital Warhead Calefaction Catalyst I (ID: 31624)                     EK:       8,499,970   VK:      99,999,998    Differenz:      91,500,028
+Small Warhead Flare Catalyst I (ID: 31632)                             EK:         143,100   VK:         304,800    Differenz:         161,700
+Medium Warhead Flare Catalyst I (ID: 31634)                            EK:       1,000,000   VK:       1,449,987    Differenz:         449,987
+Capital Warhead Flare Catalyst I (ID: 31636)                           EK:       4,103,000   VK:      89,999,999    Differenz:      85,896,999
+Small Warhead Rigor Catalyst I (ID: 31644)                             EK:         300,000   VK:       2,000,000    Differenz:       1,700,000
+Large Processor Overclocking Unit I (ID: 4397)                         EK:          50,067   VK:          97,795    Differenz:          47,728
+Large Liquid Cooled Electronics I (ID: 25934)                          EK:           9,999   VK:         249,999    Differenz:         240,000
+Large Egress Port Maximizer I (ID: 25950)                              EK:       3,000,001   VK:       4,993,996    Differenz:       1,993,995
+Small Processor Overclocking Unit I (ID: 26929)                        EK:           8,006   VK:          15,889    Differenz:           7,883
+Small Liquid Cooled Electronics I (ID: 31226)                          EK:             609   VK:           9,000    Differenz:           8,391
+Medium Liquid Cooled Electronics I (ID: 31228)                         EK:           2,000   VK:          13,000    Differenz:          11,000
+Capital Ancillary Current Router I (ID: 31362)                         EK:      31,000,000   VK:     119,000,000    Differenz:      88,000,000
+Small Capacitor Control Circuit I (ID: 31370)                          EK:         235,005   VK:         312,998    Differenz:          77,993
+Small Egress Port Maximizer I (ID: 31382)                              EK:          17,671   VK:         174,989    Differenz:         157,318
+Medium Egress Port Maximizer I (ID: 31384)                             EK:         250,005   VK:       1,047,899    Differenz:         797,894
+Capital Egress Port Maximizer I (ID: 31386)                            EK:       6,000,022   VK:      55,949,999    Differenz:      49,949,977
+Small Powergrid Subroutine Maximizer I (ID: 31394)                     EK:          30,000   VK:         150,000    Differenz:         120,000
+Medium Powergrid Subroutine Maximizer I (ID: 31396)                    EK:          50,002   VK:         699,999    Differenz:         649,997
+Small Semiconductor Memory Cell I (ID: 31406)                          EK:         320,001   VK:         568,998    Differenz:         248,997
+Medium Semiconductor Memory Cell I (ID: 31408)                         EK:       1,888,001   VK:       2,524,999    Differenz:         636,998
+Capital Processor Overclocking Unit I (ID: 33303)                      EK:         428,000   VK:       4,170,000    Differenz:       3,742,000
+Large Dynamic Fuel Valve I (ID: 26056)                                 EK:         400,000   VK:       3,599,999    Differenz:       3,199,999
+Large Low Friction Nozzle Joints I (ID: 26058)                         EK:         950,000   VK:       3,000,000    Differenz:       2,050,000
+Large Auxiliary Thrusters I (ID: 26060)                                EK:         517,005   VK:       3,100,000    Differenz:       2,582,995
+Large Engine Thermal Shielding I (ID: 26062)                           EK:          39,999   VK:       4,199,999    Differenz:       4,160,000
+Large Warp Core Optimizer I (ID: 26066)                                EK:         250,500   VK:       3,549,999    Differenz:       3,299,499
+Large Hyperspatial Velocity Optimizer I (ID: 26068)                    EK:         737,021   VK:       4,899,999    Differenz:       4,162,978
+Large Polycarbon Engine Housing I (ID: 26070)                          EK:       1,694,982   VK:       5,249,999    Differenz:       3,555,016
+Capital Auxiliary Thrusters I (ID: 31109)                              EK:       1,399,999   VK:      14,000,000    Differenz:      12,600,001
+Small Cargohold Optimization I (ID: 31117)                             EK:         149,996   VK:         229,870    Differenz:          79,874
+Capital Cargohold Optimization I (ID: 31121)                           EK:       9,464,100   VK:      24,999,999    Differenz:      15,535,899
+Small Dynamic Fuel Valve I (ID: 31129)                                 EK:          50,001   VK:         229,997    Differenz:         179,996
+Medium Dynamic Fuel Valve I (ID: 31131)                                EK:         551,001   VK:         800,000    Differenz:         248,999
+Small Engine Thermal Shielding I (ID: 31141)                           EK:          50,002   VK:         149,998    Differenz:          99,996
+Medium Engine Thermal Shielding I (ID: 31143)                          EK:         150,001   VK:         979,999    Differenz:         829,998
+Small Low Friction Nozzle Joints I (ID: 31153)                         EK:         151,001   VK:         205,479    Differenz:          54,478
+Medium Hyperspatial Velocity Optimizer I (ID: 31161)                   EK:         851,020   VK:       1,098,996    Differenz:         247,976
+Capital Hyperspatial Velocity Optimizer I (ID: 31163)                  EK:      11,300,000   VK:      18,699,999    Differenz:       7,399,999
+Small Polycarbon Engine Housing I (ID: 31177)                          EK:         163,000   VK:         219,887    Differenz:          56,887
+Capital Polycarbon Engine Housing I (ID: 31181)                        EK:       3,900,001   VK:      24,999,999    Differenz:      21,099,998
+Small Warp Core Optimizer I (ID: 31189)                                EK:         106,500   VK:         179,999    Differenz:          73,499
+Medium Warp Core Optimizer I (ID: 31191)                               EK:         375,100   VK:         849,998    Differenz:         474,898
+Capital Warp Core Optimizer I (ID: 31193)                              EK:         199,999   VK:      19,999,999    Differenz:      19,800,000
+Large Signal Disruption Amplifier I (ID: 25928)                        EK:       1,100,000   VK:       3,699,998    Differenz:       2,599,998
+Large Targeting Systems Stabilizer I (ID: 26096)                       EK:         750,000   VK:       3,498,889    Differenz:       2,748,889
+Large Particle Dispersion Augmentor I (ID: 26106)                      EK:          46,035   VK:       3,347,000    Differenz:       3,300,965
+Large Particle Dispersion Projector I (ID: 26108)                      EK:          15,000   VK:         550,000    Differenz:         535,000
+Large Inverted Signal Field Projector I (ID: 26110)                    EK:           1,000   VK:       3,500,000    Differenz:       3,499,000
+Large Tracking Diagnostic Subroutines I (ID: 26112)                    EK:         100,000   VK:         440,996    Differenz:         340,996
+Small Signal Disruption Amplifier I (ID: 31250)                        EK:          60,006   VK:         299,999    Differenz:         239,993
+Medium Signal Disruption Amplifier I (ID: 31252)                       EK:          64,252   VK:         968,980    Differenz:         904,728
+Small Inverted Signal Field Projector I (ID: 31262)                    EK:          58,000   VK:         212,999    Differenz:         154,999
+Medium Inverted Signal Field Projector I (ID: 31264)                   EK:         400,200   VK:         949,890    Differenz:         549,690
+Capital Inverted Signal Field Projector I (ID: 31266)                  EK:       1,000,000   VK:      24,999,998    Differenz:      23,999,998
+Capital Particle Dispersion Augmentor I (ID: 31290)                    EK:       1,000,000   VK:      25,999,999    Differenz:      24,999,999
+Medium Particle Dispersion Projector I (ID: 31300)                     EK:         160,010   VK:         249,999    Differenz:          89,989
+Small Targeting Systems Stabilizer I (ID: 31334)                       EK:          25,005   VK:         133,968    Differenz:         108,963
+Medium Targeting Systems Stabilizer I (ID: 31336)                      EK:         100,001   VK:         949,999    Differenz:         849,998
+Capital Targeting Systems Stabilizer I (ID: 31338)                     EK:               1   VK:      17,299,869    Differenz:      17,299,868
+Small Tracking Diagnostic Subroutines I (ID: 31346)                    EK:           1,139   VK:         109,987    Differenz:         108,847
+Medium Tracking Diagnostic Subroutines I (ID: 31348)                   EK:           1,002   VK:          69,990    Differenz:          68,988
+Clone Vat Bay I (ID: 23735)                                            EK:      70,350,000   VK:     108,999,998    Differenz:      38,649,998
+Target Spectrum Breaker (ID: 4409)                                     EK:          12,031   VK:          15,995    Differenz:           3,964
+Medium Ancillary Shield Booster (ID: 32772)                            EK:         150,000   VK:         197,900    Differenz:          47,900
+Small Ancillary Shield Booster (ID: 32774)                             EK:          22,001   VK:          39,995    Differenz:          17,994
+Medium Ancillary Armor Repairer (ID: 33101)                            EK:          84,901   VK:         107,000    Differenz:          22,099
+Scan Pinpointing Array I (ID: 33178)                                   EK:         100,006   VK:         129,001    Differenz:          28,995
+Scan Rangefinding Array I (ID: 33180)                                  EK:          78,101   VK:         107,999    Differenz:          29,898
+Survey Probe Launcher I (ID: 33270)                                    EK:          11,000   VK:          38,990    Differenz:          27,990
+Large Salvage Tackle I (ID: 25902)                                     EK:       5,953,999   VK:      10,253,999    Differenz:       4,300,000
+Medium Salvage Tackle I (ID: 31085)                                    EK:       2,000,000   VK:       2,599,995    Differenz:         599,995
+Medium Mercoxit Mining Crystal Optimization I (ID: 32817)              EK:         250,005   VK:       1,099,566    Differenz:         849,561
+Large Emission Scope Sharpener I (ID: 25930)                           EK:         500,000   VK:       5,999,999    Differenz:       5,499,999
+Large Gravity Capacitor Upgrade I (ID: 25936)                          EK:          37,001   VK:         419,001    Differenz:         382,000
+Large Signal Focusing Kit I (ID: 26104)                                EK:         220,000   VK:       2,179,989    Differenz:       1,959,989
+Small Emission Scope Sharpener I (ID: 31201)                           EK:         180,205   VK:         240,000    Differenz:          59,795
+Medium Emission Scope Sharpener I (ID: 31203)                          EK:         650,120   VK:         999,997    Differenz:         349,876
+Small Gravity Capacitor Upgrade I (ID: 31213)                          EK:          35,001   VK:          49,999    Differenz:          14,998
+Medium Gravity Capacitor Upgrade I (ID: 31215)                         EK:          50,000   VK:         159,000    Differenz:         109,000
+Small Memetic Algorithm Bank I (ID: 31238)                             EK:           5,000   VK:          10,999    Differenz:           5,999
+Medium Memetic Algorithm Bank I (ID: 31240)                            EK:          10,000   VK:          44,000    Differenz:          34,000
+Small Signal Focusing Kit I (ID: 31310)                                EK:          30,020   VK:          97,999    Differenz:          67,979
+Medium Signal Focusing Kit I (ID: 31312)                               EK:          24,506   VK:         699,978    Differenz:         675,473
+Large Ionic Field Projector I (ID: 26102)                              EK:       1,000,000   VK:       3,799,990    Differenz:       2,799,990
+Medium Ionic Field Projector I (ID: 31276)                             EK:         650,001   VK:         910,001    Differenz:         260,000
+'Arbalest' Rapid Heavy Missile Launcher I (ID: 33440)                  EK:          13,004   VK:          17,000    Differenz:           3,996
+Limited Hyperspatial Accelerator (ID: 33981)                           EK:       8,200,002   VK:      11,350,000    Differenz:       3,149,998
+Omnidirectional Tracking Enhancer I (ID: 33822)                        EK:          45,014   VK:          82,200    Differenz:          37,185
+Carbonized Lead S (ID: 178)                                            EK:               4   VK:              16    Differenz:              12
+Nuclear S (ID: 179)                                                    EK:               3   VK:               3    Differenz:               1
+Titanium Sabot S (ID: 182)                                             EK:               7   VK:               9    Differenz:               2
+Fusion S (ID: 183)                                                     EK:              12   VK:              21    Differenz:               9
+Carbonized Lead M (ID: 186)                                            EK:               7   VK:               9    Differenz:               2
+Nuclear M (ID: 187)                                                    EK:               8   VK:              12    Differenz:               5
+Proton M (ID: 188)                                                     EK:              18   VK:              24    Differenz:               6
+Titanium Sabot M (ID: 190)                                             EK:              60   VK:              92    Differenz:              32
+Fusion M (ID: 191)                                                     EK:              44   VK:              69    Differenz:              25
+Phased Plasma M (ID: 192)                                              EK:              51   VK:              97    Differenz:              46
+Carbonized Lead L (ID: 194)                                            EK:              17   VK:              25    Differenz:               8
+Nuclear L (ID: 195)                                                    EK:              25   VK:              32    Differenz:               7
+Proton L (ID: 196)                                                     EK:              25   VK:              40    Differenz:              15
+Depleted Uranium L (ID: 197)                                           EK:              44   VK:              65    Differenz:              21
+Titanium Sabot L (ID: 198)                                             EK:              62   VK:              85    Differenz:              23
+Fusion L (ID: 199)                                                     EK:             128   VK:             164    Differenz:              36
+Phased Plasma L (ID: 200)                                              EK:             180   VK:             237    Differenz:              57
+Carbonized Lead XL (ID: 17664)                                         EK:             197   VK:             286    Differenz:              89
+Depleted Uranium XL (ID: 17666)                                        EK:             352   VK:             890    Differenz:             538
+Fusion XL (ID: 17670)                                                  EK:           1,700   VK:           2,200    Differenz:             500
+Nuclear XL (ID: 17672)                                                 EK:             507   VK:             900    Differenz:             393
+Phased Plasma XL (ID: 17674)                                           EK:           1,700   VK:           2,406    Differenz:             706
+Proton XL (ID: 17676)                                                  EK:             533   VK:             680    Differenz:             147
+Titanium Sabot XL (ID: 17678)                                          EK:           1,404   VK:           2,779    Differenz:           1,376
+Orbital EMP S (ID: 32801)                                              EK:              46   VK:              74    Differenz:              29
+Lead Charge S (ID: 218)                                                EK:               6   VK:               9    Differenz:               2
+Uranium Charge S (ID: 220)                                             EK:              12   VK:              16    Differenz:               4
+Tungsten Charge M (ID: 224)                                            EK:              25   VK:              39    Differenz:              14
+Lead Charge M (ID: 226)                                                EK:              25   VK:              33    Differenz:               8
+Uranium Charge M (ID: 228)                                             EK:              36   VK:              54    Differenz:              18
+Plutonium Charge M (ID: 229)                                           EK:              27   VK:              37    Differenz:              10
+Iron Charge L (ID: 231)                                                EK:              22   VK:              29    Differenz:               7
+Tungsten Charge L (ID: 232)                                            EK:              25   VK:              35    Differenz:              10
+Lead Charge L (ID: 234)                                                EK:              53   VK:              70    Differenz:              17
+Thorium Charge L (ID: 235)                                             EK:              78   VK:              98    Differenz:              20
+Uranium Charge L (ID: 236)                                             EK:              66   VK:              85    Differenz:              19
+Plutonium Charge L (ID: 237)                                           EK:              61   VK:             101    Differenz:              40
+Antimatter Charge L (ID: 238)                                          EK:             182   VK:             236    Differenz:              54
+Iridium Charge XL (ID: 17650)                                          EK:             250   VK:             648    Differenz:             398
+Iron Charge XL (ID: 17652)                                             EK:             275   VK:             446    Differenz:             171
+Lead Charge XL (ID: 17654)                                             EK:             364   VK:           1,009    Differenz:             645
+Plutonium Charge XL (ID: 17656)                                        EK:             261   VK:           1,451    Differenz:           1,190
+Thorium Charge XL (ID: 17658)                                          EK:             206   VK:           1,438    Differenz:           1,232
+Tungsten Charge XL (ID: 17660)                                         EK:             221   VK:             693    Differenz:             472
+Uranium Charge XL (ID: 17662)                                          EK:             515   VK:           2,099    Differenz:           1,584
+Orbital Hybrid S (ID: 32803)                                           EK:              84   VK:             109    Differenz:              25
+Radio S (ID: 239)                                                      EK:             901   VK:           4,000    Differenz:           3,099
+Standard S (ID: 242)                                                   EK:             653   VK:             998    Differenz:             345
+Xray S (ID: 244)                                                       EK:             650   VK:           6,600    Differenz:           5,950
+Gamma S (ID: 245)                                                      EK:           1,200   VK:           1,700    Differenz:             500
+Multifrequency S (ID: 246)                                             EK:           3,000   VK:           9,999    Differenz:           6,999
+Radio M (ID: 247)                                                      EK:          11,800   VK:          15,898    Differenz:           4,098
+Microwave M (ID: 248)                                                  EK:           6,101   VK:          45,000    Differenz:          38,899
+Infrared M (ID: 249)                                                   EK:           3,700   VK:          10,000    Differenz:           6,300
+Standard M (ID: 250)                                                   EK:           7,000   VK:          20,000    Differenz:          13,000
+Ultraviolet M (ID: 251)                                                EK:           5,000   VK:          11,499    Differenz:           6,499
+Multifrequency M (ID: 254)                                             EK:          12,111   VK:          15,400    Differenz:           3,289
+Radio L (ID: 255)                                                      EK:          16,005   VK:          25,000    Differenz:           8,995
+Microwave L (ID: 256)                                                  EK:          10,000   VK:          18,000    Differenz:           8,000
+Infrared L (ID: 257)                                                   EK:           7,100   VK:          15,400    Differenz:           8,300
+Standard L (ID: 258)                                                   EK:           7,516   VK:          51,999    Differenz:          44,483
+Ultraviolet L (ID: 259)                                                EK:           6,350   VK:          30,000    Differenz:          23,650
+Xray L (ID: 260)                                                       EK:           8,000   VK:          24,500    Differenz:          16,500
+Gamma L (ID: 261)                                                      EK:          21,000   VK:          39,300    Differenz:          18,300
+Gamma XL (ID: 17680)                                                   EK:         340,000   VK:         520,000    Differenz:         180,000
+Infrared XL (ID: 17682)                                                EK:         114,000   VK:         214,625    Differenz:         100,625
+Microwave XL (ID: 17684)                                               EK:         180,000   VK:         319,998    Differenz:         139,998
+Multifrequency XL (ID: 17686)                                          EK:         426,002   VK:         539,999    Differenz:         113,997
+Radio XL (ID: 17688)                                                   EK:         333,000   VK:         500,000    Differenz:         167,000
+Standard XL (ID: 17690)                                                EK:         114,000   VK:         559,968    Differenz:         445,968
+Ultraviolet XL (ID: 17692)                                             EK:          80,000   VK:         207,600    Differenz:         127,600
+Xray XL (ID: 17694)                                                    EK:         330,000   VK:         970,000    Differenz:         640,000
+Orbital Laser S (ID: 32799)                                            EK:           5,000   VK:          12,500    Differenz:           7,500
+Cap Booster 25 (ID: 263)                                               EK:             203   VK:             275    Differenz:              72
+Cap Booster 75 (ID: 3552)                                              EK:             950   VK:           6,996    Differenz:           6,046
+Cap Booster 150 (ID: 11283)                                            EK:           2,425   VK:           3,484    Differenz:           1,059
+Cap Booster 200 (ID: 11285)                                            EK:           2,299   VK:           2,894    Differenz:             595
+Light Defender Missile I (ID: 32782)                                   EK:               6   VK:              20    Differenz:              14
+Scourge Torpedo (ID: 267)                                              EK:             107   VK:             174    Differenz:              67
+Nova Torpedo (ID: 2508)                                                EK:             251   VK:             327    Differenz:              75
+Nova Light Missile (ID: 213)                                           EK:              11   VK:              17    Differenz:               6
+Inferno Rocket (ID: 2514)                                              EK:               5   VK:               8    Differenz:               2
+Nova Rocket (ID: 2516)                                                 EK:               5   VK:              14    Differenz:               9
+Mjolnir Auto-Targeting Light Missile I (ID: 269)                       EK:               5   VK:               7    Differenz:               2
+Scourge Auto-Targeting Light Missile I (ID: 1810)                      EK:              13   VK:              26    Differenz:              13
+Nova Auto-Targeting Light Missile I (ID: 1814)                         EK:               4   VK:              30    Differenz:              26
+Inferno Auto-Targeting Light Missile I (ID: 1816)                      EK:               6   VK:               9    Differenz:               3
+Mjolnir Auto-Targeting Heavy Missile I (ID: 1820)                      EK:              39   VK:              60    Differenz:              21
+Nova Auto-Targeting Heavy Missile I (ID: 1822)                         EK:              13   VK:              17    Differenz:               4
+Inferno Auto-Targeting Heavy Missile I (ID: 1824)                      EK:              26   VK:              33    Differenz:               8
+Scourge Auto-Targeting Cruise Missile I (ID: 1826)                     EK:             100   VK:             320    Differenz:             220
+Inferno Auto-Targeting Cruise Missile I (ID: 1832)                     EK:              82   VK:             127    Differenz:              45
+Mjolnir Citadel Torpedo (ID: 17857)                                    EK:           1,512   VK:           2,495    Differenz:             983
+Inferno Citadel Torpedo (ID: 17861)                                    EK:           2,708   VK:           5,370    Differenz:           2,662
+Nova Citadel Torpedo (ID: 17863)                                       EK:           1,311   VK:           3,000    Differenz:           1,689
+Arkonor Mining Crystal I (ID: 18036)                                   EK:         130,002   VK:         164,990    Differenz:          34,988
+Bistot Mining Crystal I (ID: 18038)                                    EK:         113,004   VK:         244,998    Differenz:         131,993
+Crokite Mining Crystal I (ID: 18040)                                   EK:          85,005   VK:         123,999    Differenz:          38,994
+Dark Ochre Mining Crystal I (ID: 18042)                                EK:          65,010   VK:          99,998    Differenz:          34,988
+Gneiss Mining Crystal I (ID: 18044)                                    EK:          50,012   VK:          87,000    Differenz:          36,988
+Hedbergite Mining Crystal I (ID: 18046)                                EK:          65,018   VK:         169,999    Differenz:         104,981
+Hemorphite Mining Crystal I (ID: 18048)                                EK:          65,088   VK:          84,999    Differenz:          19,911
+Jaspet Mining Crystal I (ID: 18050)                                    EK:          10,006   VK:          96,900    Differenz:          86,894
+Kernite Mining Crystal I (ID: 18052)                                   EK:          65,600   VK:          97,800    Differenz:          32,200
+Omber Mining Crystal I (ID: 18056)                                     EK:          36,004   VK:          72,999    Differenz:          36,994
+Pyroxeres Mining Crystal I (ID: 18060)                                 EK:          26,501   VK:          38,000    Differenz:          11,499
+Spodumain Mining Crystal I (ID: 18064)                                 EK:          85,000   VK:         120,000    Differenz:          35,000
+Veldspar Mining Crystal I (ID: 18066)                                  EK:           7,888   VK:          10,000    Differenz:           2,112
+Quest Survey Probe I (ID: 18626)                                       EK:          80,000   VK:         105,996    Differenz:          25,996
+Gaze Survey Probe I (ID: 18637)                                        EK:         130,004   VK:         175,000    Differenz:          44,996
+Snowball CXIV (ID: 30221)                                              EK:             300   VK:           1,690    Differenz:           1,390
+Sodium Firework CXIV (ID: 32993)                                       EK:           1,001   VK:           7,395    Differenz:           6,394
+Barium Firework CXIV (ID: 32994)                                       EK:           1,300   VK:           7,399    Differenz:           6,099
+Copper Firework CXIV (ID: 32995)                                       EK:           1,000   VK:           5,700    Differenz:           4,700
+Barium Firework (ID: 33572)                                            EK:           1,602   VK:           3,500    Differenz:           1,898
+Copper Firework (ID: 33573)                                            EK:             972   VK:           2,949    Differenz:           1,977
+Warp Disrupt Probe (ID: 22778)                                         EK:           4,500   VK:          11,996    Differenz:           7,496
+Mjolnir Heavy Assault Missile (ID: 20306)                              EK:              51   VK:              76    Differenz:              25
+Inferno Heavy Assault Missile (ID: 20308)                              EK:              37   VK:              59    Differenz:              22
+Focused Warp Disruption Script (ID: 29003)                             EK:          40,010   VK:          61,980    Differenz:          21,970
+Targeting Range Script (ID: 29009)                                     EK:           4,402   VK:           5,971    Differenz:           1,569
+Scourge Citadel Cruise Missile (ID: 32436)                             EK:           1,201   VK:           2,170    Differenz:             969
+Nova Citadel Cruise Missile (ID: 32438)                                EK:           1,024   VK:           3,000    Differenz:           1,976
+Inferno Citadel Cruise Missile (ID: 32440)                             EK:           2,651   VK:           7,000    Differenz:           4,349
+Mjolnir Citadel Cruise Missile (ID: 32442)                             EK:           1,810   VK:           5,410    Differenz:           3,600
+Gunnery (ID: 3300)                                                     EK:             861   VK:           3,999    Differenz:           3,138
+Small Hybrid Turret (ID: 3301)                                         EK:           2,554   VK:          20,400    Differenz:          17,846
+Small Projectile Turret (ID: 3302)                                     EK:             604   VK:          20,500    Differenz:          19,896
+Small Energy Turret (ID: 3303)                                         EK:           5,614   VK:          20,450    Differenz:          14,836
+Medium Projectile Turret (ID: 3305)                                    EK:          45,000   VK:         102,500    Differenz:          57,500
+Medium Energy Turret (ID: 3306)                                        EK:          25,101   VK:         102,498    Differenz:          77,397
+Large Hybrid Turret (ID: 3307)                                         EK:       1,627,328   VK:       2,050,000    Differenz:         422,672
+Rapid Firing (ID: 3310)                                                EK:          31,901   VK:          79,999    Differenz:          48,098
+Sharpshooter (ID: 3311)                                                EK:          42,689   VK:          75,900    Differenz:          33,211
+Motion Prediction (ID: 3312)                                           EK:           5,100   VK:          77,899    Differenz:          72,799
+Controlled Bursts (ID: 3316)                                           EK:          45,000   VK:          71,750    Differenz:          26,750
+Trajectory Analysis (ID: 3317)                                         EK:          70,008   VK:         102,499    Differenz:          32,491
+Small Railgun Specialization (ID: 11082)                               EK:         611,700   VK:         989,895    Differenz:         378,195
+Small Beam Laser Specialization (ID: 11083)                            EK:         554,607   VK:         849,997    Differenz:         295,390
+Small Autocannon Specialization (ID: 11084)                            EK:         660,001   VK:       3,290,000    Differenz:       2,629,999
+Small Artillery Specialization (ID: 12201)                             EK:         702,119   VK:       1,500,000    Differenz:         797,881
+Medium Artillery Specialization (ID: 12202)                            EK:       2,200,000   VK:       2,794,999    Differenz:         594,999
+Medium Beam Laser Specialization (ID: 12204)                           EK:       1,421,208   VK:       3,224,000    Differenz:       1,802,792
+Medium Autocannon Specialization (ID: 12208)                           EK:       1,750,000   VK:       2,395,000    Differenz:         645,000
+Small Blaster Specialization (ID: 12210)                               EK:         637,001   VK:       1,439,000    Differenz:         801,999
+Medium Blaster Specialization (ID: 12211)                              EK:       1,950,001   VK:       2,449,998    Differenz:         499,997
+Small Pulse Laser Specialization (ID: 12213)                           EK:         554,117   VK:         847,992    Differenz:         293,875
+Medium Pulse Laser Specialization (ID: 12214)                          EK:       1,560,000   VK:       2,338,900    Differenz:         778,900
+Large Pulse Laser Specialization (ID: 12215)                           EK:       5,018,917   VK:       6,777,215    Differenz:       1,758,298
+Capital Energy Turret (ID: 20327)                                      EK:      11,010,001   VK:      16,690,000    Differenz:       5,679,999
+Capital Projectile Turret (ID: 21667)                                  EK:       7,001,013   VK:      20,999,999    Differenz:      13,998,986
+Missile Launcher Operation (ID: 3319)                                  EK:          10,500   VK:          20,500    Differenz:          10,000
+Rockets (ID: 3320)                                                     EK:           5,000   VK:          10,240    Differenz:           5,240
+Light Missiles (ID: 3321)                                              EK:          12,605   VK:          33,000    Differenz:          20,395
+Auto-Targeting Missiles (ID: 3322)                                     EK:           7,100   VK:          25,000    Differenz:          17,900
+Defender Missiles (ID: 3323)                                           EK:           4,000   VK:          30,750    Differenz:          26,750
+Heavy Missiles (ID: 3324)                                              EK:          45,029   VK:         102,500    Differenz:          57,471
+Cruise Missiles (ID: 3326)                                             EK:         201,000   VK:         350,000    Differenz:         149,000
+Missile Bombardment (ID: 12441)                                        EK:          60,000   VK:          82,000    Differenz:          22,000
+Missile Projection (ID: 12442)                                         EK:          19,551   VK:         102,500    Differenz:          82,949
+Light Missile Specialization (ID: 20210)                               EK:         591,001   VK:       1,089,900    Differenz:         498,899
+Target Navigation Prediction (ID: 20314)                               EK:          33,999   VK:          61,500    Differenz:          27,501
+Rapid Launch (ID: 21071)                                               EK:          12,001   VK:          40,000    Differenz:          27,999
+Citadel Torpedoes (ID: 21668)                                          EK:      12,000,000   VK:      18,995,000    Differenz:       6,995,000
+Heavy Assault Missile Specialization (ID: 25718)                       EK:       1,569,011   VK:       2,008,173    Differenz:         439,162
+Heavy Assault Missiles (ID: 25719)                                     EK:          70,812   VK:         102,500    Differenz:          31,688
+Spaceship Command (ID: 3327)                                           EK:           3,100   VK:          18,000    Differenz:          14,900
+Gallente Frigate (ID: 3328)                                            EK:          31,705   VK:          41,000    Differenz:           9,295
+Minmatar Frigate (ID: 3329)                                            EK:          28,001   VK:          41,000    Differenz:          12,999
+Caldari Frigate (ID: 3330)                                             EK:          25,000   VK:          41,000    Differenz:          16,000
+Amarr Frigate (ID: 3331)                                               EK:          28,500   VK:          40,999    Differenz:          12,499
+Gallente Cruiser (ID: 3332)                                            EK:         350,005   VK:         512,500    Differenz:         162,495
+Minmatar Cruiser (ID: 3333)                                            EK:         386,005   VK:         512,499    Differenz:         126,494
+Caldari Cruiser (ID: 3334)                                             EK:         355,006   VK:         512,500    Differenz:         157,494
+Gallente Industrial (ID: 3340)                                         EK:          50,025   VK:         307,500    Differenz:         257,475
+Minmatar Industrial (ID: 3341)                                         EK:         225,066   VK:         307,500    Differenz:          82,434
+Caldari Industrial (ID: 3342)                                          EK:         225,048   VK:         307,500    Differenz:          82,452
+Amarr Industrial (ID: 3343)                                            EK:         181,005   VK:         307,500    Differenz:         126,495
+Interdictors (ID: 12098)                                               EK:      17,190,201   VK:      22,945,000    Differenz:       5,754,799
+Electronic Attack Ships (ID: 28615)                                    EK:       3,000,136   VK:       4,100,000    Differenz:       1,099,864
+Amarr Strategic Cruiser (ID: 30650)                                    EK:         955,000   VK:       1,530,000    Differenz:         575,000
+Minmatar Strategic Cruiser (ID: 30653)                                 EK:       1,010,000   VK:       1,530,000    Differenz:         520,000
+Mining Frigate (ID: 32918)                                             EK:           2,953   VK:          24,999    Differenz:          22,046
+Amarr Destroyer (ID: 33091)                                            EK:          77,031   VK:         102,500    Differenz:          25,469
+Caldari Destroyer (ID: 33092)                                          EK:          75,000   VK:         156,988    Differenz:          81,988
+Amarr Battlecruiser (ID: 33095)                                        EK:         900,000   VK:       1,169,998    Differenz:         269,998
+Gallente Battlecruiser (ID: 33097)                                     EK:         770,000   VK:         999,999    Differenz:         229,999
+Minmatar Battlecruiser (ID: 33098)                                     EK:         790,000   VK:       1,025,000    Differenz:         235,000
+Expedition Frigates (ID: 33856)                                        EK:       3,011,000   VK:       4,099,888    Differenz:       1,088,888
+Leadership (ID: 3348)                                                  EK:          13,000   VK:          20,495    Differenz:           7,495
+Skirmish Warfare (ID: 3349)                                            EK:          10,000   VK:          76,875    Differenz:          66,875
+Siege Warfare (ID: 3350)                                               EK:          30,000   VK:         102,000    Differenz:          72,000
+Siege Warfare Specialist (ID: 3351)                                    EK:         180,110   VK:         409,900    Differenz:         229,790
+Information Warfare Specialist (ID: 3352)                              EK:         100,065   VK:         410,000    Differenz:         309,935
+Armored Warfare Specialist (ID: 11569)                                 EK:         271,701   VK:         410,000    Differenz:         138,299
+Skirmish Warfare Specialist (ID: 11572)                                EK:         150,121   VK:         410,000    Differenz:         259,879
+Wing Command (ID: 11574)                                               EK:       1,414,200   VK:       2,049,999    Differenz:         635,799
+Armored Warfare (ID: 20494)                                            EK:          60,000   VK:         102,500    Differenz:          42,500
+Information Warfare (ID: 20495)                                        EK:          70,025   VK:         102,500    Differenz:          32,474
+Mining Foreman (ID: 22536)                                             EK:         112,002   VK:         250,000    Differenz:         137,998
+Mining Director (ID: 22552)                                            EK:         402,003   VK:         799,950    Differenz:         397,947
+Corporation Management (ID: 3363)                                      EK:          12,004   VK:          20,495    Differenz:           8,491
+Diplomatic Relations (ID: 3368)                                        EK:          24,003   VK:          40,995    Differenz:          16,992
+Starbase Defense Management (ID: 3373)                                 EK:         750,025   VK:       1,025,000    Differenz:         274,975
+Megacorp Management (ID: 3731)                                         EK:         100,434   VK:         409,999    Differenz:         309,564
+Empire Control (ID: 3732)                                              EK:       5,100,112   VK:       8,555,547    Differenz:       3,455,435
+Anchoring (ID: 11584)                                                  EK:          39,107   VK:          76,875    Differenz:          37,768
+Industry (ID: 3380)                                                    EK:           3,200   VK:          79,000    Differenz:          75,800
+Mass Production (ID: 3387)                                             EK:          46,119   VK:         124,058    Differenz:          77,939
+Advanced Industry (ID: 3388)                                           EK:          12,550   VK:         247,492    Differenz:         234,942
+Advanced Small Ship Construction (ID: 3395)                            EK:          29,067   VK:          82,000    Differenz:          52,933
+Advanced Medium Ship Construction (ID: 3397)                           EK:         649,156   VK:       1,025,000    Differenz:         375,844
+Outpost Construction (ID: 3400)                                        EK:      80,000,000   VK:     107,442,000    Differenz:      27,442,000
+Jury Rigging (ID: 26252)                                               EK:           6,111   VK:          47,885    Differenz:          41,774
+Armor Rigging (ID: 26253)                                              EK:           2,015   VK:          88,890    Differenz:          86,875
+Astronautics Rigging (ID: 26254)                                       EK:           3,213   VK:          20,500    Differenz:          17,287
+Drones Rigging (ID: 26255)                                             EK:          41,001   VK:         100,000    Differenz:          58,999
+Electronic Superiority Rigging (ID: 26256)                             EK:           8,010   VK:          74,900    Differenz:          66,890
+Projectile Weapon Rigging (ID: 26257)                                  EK:          26,089   VK:          87,890    Differenz:          61,801
+Energy Weapon Rigging (ID: 26258)                                      EK:           3,500   VK:          30,500    Differenz:          27,000
+Hybrid Weapon Rigging (ID: 26259)                                      EK:          51,048   VK:          95,000    Differenz:          43,952
+Launcher Rigging (ID: 26260)                                           EK:           5,003   VK:          95,000    Differenz:          89,997
+Shield Rigging (ID: 26261)                                             EK:          20,559   VK:         101,800    Differenz:          81,241
+Science (ID: 3402)                                                     EK:             800   VK:          10,600    Differenz:           9,800
+Laboratory Operation (ID: 3406)                                        EK:         150,000   VK:         307,500    Differenz:         157,500
+Metallurgy (ID: 3409)                                                  EK:         110,000   VK:         358,750    Differenz:         248,750
+High Energy Physics (ID: 11433)                                        EK:       8,068,009   VK:      11,532,000    Differenz:       3,463,991
+Plasma Physics (ID: 11441)                                             EK:       5,029,308   VK:       8,999,999    Differenz:       3,970,691
+Hydromagnetic Physics (ID: 11443)                                      EK:       5,450,047   VK:      10,897,979    Differenz:       5,447,932
+Amarr Starship Engineering (ID: 11444)                                 EK:       4,570,035   VK:       9,300,035    Differenz:       4,730,000
+Minmatar Starship Engineering (ID: 11445)                              EK:       5,500,325   VK:       9,000,000    Differenz:       3,499,675
+Laser Physics (ID: 11447)                                              EK:       4,500,437   VK:       9,499,999    Differenz:       4,999,562
+Electromagnetic Physics (ID: 11448)                                    EK:       8,450,295   VK:      11,465,439    Differenz:       3,015,144
+Gallente Starship Engineering (ID: 11450)                              EK:       5,025,143   VK:       9,200,000    Differenz:       4,174,857
+Mechanical Engineering (ID: 11452)                                     EK:       8,703,125   VK:      12,000,000    Differenz:       3,296,875
+Electronic Engineering (ID: 11453)                                     EK:       8,003,556   VK:      11,398,104    Differenz:       3,394,547
+Caldari Starship Engineering (ID: 11454)                               EK:       6,001,000   VK:       9,999,999    Differenz:       3,998,999
+Quantum Physics (ID: 11455)                                            EK:       6,000,558   VK:      10,887,997    Differenz:       4,887,439
+Astronautic Engineering (ID: 11487)                                    EK:   2,200,040,000   VK:  19,900,000,000    Differenz:  17,699,960,000
+Molecular Engineering (ID: 11529)                                      EK:       7,000,035   VK:      12,679,815    Differenz:       5,679,779
+Talocan Technology (ID: 20433)                                         EK:         111,010   VK:         399,991    Differenz:         288,981
+Sleeper Technology (ID: 21789)                                         EK:          50,000   VK:         150,000    Differenz:         100,000
+Caldari Encryption Methods (ID: 21790)                                 EK:             760   VK:           2,399    Differenz:           1,639
+Minmatar Encryption Methods (ID: 21791)                                EK:             601   VK:           1,289    Differenz:             688
+Gallente Encryption Methods (ID: 23121)                                EK:             602   VK:           1,799    Differenz:           1,197
+Takmahl Technology (ID: 23123)                                         EK:         109,002   VK:         300,389    Differenz:         191,387
+Yan Jung Technology (ID: 23124)                                        EK:         358,002   VK:       1,699,998    Differenz:       1,341,996
+Scientific Networking (ID: 24270)                                      EK:       6,102,000   VK:      10,396,000    Differenz:       4,294,000
+Advanced Laboratory Operation (ID: 24624)                              EK:      16,420,000   VK:      22,332,731    Differenz:       5,912,731
+Defensive Subsystem Technology (ID: 30324)                             EK:       8,327,001   VK:      11,372,888    Differenz:       3,045,887
+Engineering Subsystem Technology (ID: 30325)                           EK:       8,620,011   VK:      12,029,555    Differenz:       3,409,544
+Electronic Subsystem Technology (ID: 30326)                            EK:       7,503,333   VK:      11,496,888    Differenz:       3,993,555
+Offensive Subsystem Technology (ID: 30327)                             EK:       7,925,812   VK:      10,899,992    Differenz:       2,974,180
+Propulsion Subsystem Technology (ID: 30788)                            EK:       6,229,164   VK:      10,896,263    Differenz:       4,667,099
+Drones (ID: 3436)                                                      EK:           6,815   VK:          19,900    Differenz:          13,085
+Drone Avionics (ID: 3437)                                              EK:          15,308   VK:          41,000    Differenz:          25,692
+Mining Drone Operation (ID: 3438)                                      EK:          10,005   VK:          40,999    Differenz:          30,994
+Repair Drone Operation (ID: 3439)                                      EK:          99,274   VK:         205,000    Differenz:         105,726
+Salvage Drone Operation (ID: 3440)                                     EK:         120,807   VK:         225,500    Differenz:         104,693
+Heavy Drone Operation (ID: 3441)                                       EK:         267,000   VK:         389,500    Differenz:         122,500
+Drone Navigation (ID: 12305)                                           EK:          21,101   VK:         111,700    Differenz:          90,599
+Amarr Drone Specialization (ID: 12484)                                 EK:       1,610,001   VK:       2,046,012    Differenz:         436,011
+Minmatar Drone Specialization (ID: 12485)                              EK:       2,800,000   VK:       4,190,000    Differenz:       1,389,999
+Advanced Drone Avionics (ID: 23566)                                    EK:         202,803   VK:         410,000    Differenz:         207,196
+Sentry Drone Interfacing (ID: 23594)                                   EK:         199,580   VK:         461,250    Differenz:         261,670
+Drone Sharpshooting (ID: 23606)                                        EK:         105,500   VK:         153,750    Differenz:          48,250
+Drone Durability (ID: 23618)                                           EK:          25,006   VK:          51,250    Differenz:          26,244
+Light Drone Operation (ID: 24241)                                      EK:          18,003   VK:          51,250    Differenz:          33,247
+Medium Drone Operation (ID: 33699)                                     EK:          66,510   VK:         102,500    Differenz:          35,990
+Trade (ID: 3443)                                                       EK:           9,701   VK:          20,000    Differenz:          10,299
+Broker Relations (ID: 3446)                                            EK:          80,001   VK:         102,500    Differenz:          22,499
+Procurement (ID: 16594)                                                EK:       1,200,011   VK:       1,537,500    Differenz:         337,489
+Corporation Contracting (ID: 25233)                                    EK:          56,100   VK:         149,992    Differenz:          93,892
+Contracting (ID: 25235)                                                EK:          26,100   VK:         153,750    Differenz:         127,650
+Customs Code Expertise (ID: 33467)                                     EK:       2,000,157   VK:       3,075,000    Differenz:       1,074,843
+Navigation (ID: 3449)                                                  EK:             809   VK:           4,448    Differenz:           3,639
+Afterburner (ID: 3450)                                                 EK:           7,100   VK:          19,500    Differenz:          12,400
+Fuel Conservation (ID: 3451)                                           EK:          10,028   VK:          30,750    Differenz:          20,722
+Acceleration Control (ID: 3452)                                        EK:          25,000   VK:          40,700    Differenz:          15,700
+Evasive Maneuvering (ID: 3453)                                         EK:          18,802   VK:          25,000    Differenz:           6,198
+High Speed Maneuvering (ID: 3454)                                      EK:         159,000   VK:         348,500    Differenz:         189,500
+Warp Drive Operation (ID: 3455)                                        EK:           8,001   VK:          30,700    Differenz:          22,699
+Jump Drive Operation (ID: 3456)                                        EK:       8,930,869   VK:      11,240,420    Differenz:       2,309,551
+Cynosural Field Theory (ID: 21603)                                     EK:       9,000,008   VK:      11,798,459    Differenz:       2,798,451
+Social (ID: 3355)                                                      EK:           1,650   VK:          20,500    Differenz:          18,850
+Negotiation (ID: 3356)                                                 EK:           2,310   VK:          60,000    Differenz:          57,690
+Diplomacy (ID: 3357)                                                   EK:           9,000   VK:         184,500    Differenz:         175,500
+Fast Talk (ID: 3358)                                                   EK:          18,000   VK:         102,400    Differenz:          84,400
+Connections (ID: 3359)                                                 EK:          96,030   VK:         205,000    Differenz:         108,970
+Criminal Connections (ID: 3361)                                        EK:         123,000   VK:         205,000    Differenz:          82,000
+Shield Operation (ID: 3416)                                            EK:           1,300   VK:          35,800    Differenz:          34,500
+Shield Management (ID: 3419)                                           EK:          68,116   VK:         169,900    Differenz:         101,784
+Tactical Shield Manipulation (ID: 3420)                                EK:          21,000   VK:         299,000    Differenz:         278,000
+Shield Emission Systems (ID: 3422)                                     EK:          35,180   VK:         199,900    Differenz:         164,720
+Shield Upgrades (ID: 3425)                                             EK:          50,505   VK:          86,100    Differenz:          35,595
+Thermic Shield Compensation (ID: 11566)                                EK:           4,000   VK:         123,000    Differenz:         119,000
+EM Shield Compensation (ID: 12365)                                     EK:          13,100   VK:         122,900    Differenz:         109,800
+Kinetic Shield Compensation (ID: 12366)                                EK:          56,100   VK:         123,000    Differenz:          66,900
+Explosive Shield Compensation (ID: 12367)                              EK:          78,105   VK:         123,000    Differenz:          44,895
+Shield Compensation (ID: 21059)                                        EK:          92,000   VK:         123,000    Differenz:          31,000
+Capital Shield Operation (ID: 21802)                                   EK:      21,000,000   VK:      27,230,998    Differenz:       6,230,998
+Capital Shield Emission Systems (ID: 24571)                            EK:       8,000,003   VK:      11,497,972    Differenz:       3,497,969
+Mechanics (ID: 3392)                                                   EK:           2,000   VK:          25,000    Differenz:          23,000
+Repair Systems (ID: 3393)                                              EK:           2,001   VK:          20,000    Differenz:          17,999
+Hull Upgrades (ID: 3394)                                               EK:          47,000   VK:          61,500    Differenz:          14,500
+Remote Armor Repair Systems (ID: 16069)                                EK:          43,100   VK:          86,000    Differenz:          42,900
+Explosive Armor Compensation (ID: 22807)                               EK:          95,000   VK:         123,000    Differenz:          28,000
+Kinetic Armor Compensation (ID: 22808)                                 EK:          90,110   VK:         123,000    Differenz:          32,890
+Remote Hull Repair Systems (ID: 27902)                                 EK:          55,257   VK:         101,000    Differenz:          45,743
+Capital Remote Hull Repair Systems (ID: 27936)                         EK:       7,750,000   VK:      10,479,710    Differenz:       2,729,710
+Armor Resistance Phasing (ID: 32797)                                   EK:         406,512   VK:         537,258    Differenz:         130,746
+Long Range Targeting (ID: 3428)                                        EK:          36,100   VK:          90,200    Differenz:          54,100
+Target Management (ID: 3429)                                           EK:          10,250   VK:         750,000    Differenz:         739,750
+Advanced Target Management (ID: 3430)                                  EK:         391,101   VK:         512,500    Differenz:         121,399
+Signature Analysis (ID: 3431)                                          EK:          20,751   VK:          76,875    Differenz:          56,124
+Magnetometric Sensor Compensation (ID: 32999)                          EK:         101,004   VK:         205,000    Differenz:         103,996
+Gravimetric Sensor Compensation (ID: 33000)                            EK:         138,000   VK:         205,000    Differenz:          67,000
+Ladar Sensor Compensation (ID: 33001)                                  EK:         125,820   VK:         205,000    Differenz:          79,180
+Radar Sensor Compensation (ID: 33002)                                  EK:         120,001   VK:         205,000    Differenz:          84,999
+Weapon Upgrades (ID: 3318)                                             EK:          60,000   VK:         215,000    Differenz:         155,000
+Power Grid Management (ID: 3413)                                       EK:           1,600   VK:          30,000    Differenz:          28,400
+Capacitor Systems Operation (ID: 3417)                                 EK:           8,000   VK:          41,000    Differenz:          33,000
+Capacitor Management (ID: 3418)                                        EK:         127,250   VK:         174,250    Differenz:          47,000
+Energy Pulse Weapons (ID: 3421)                                        EK:          61,739   VK:         131,500    Differenz:          69,761
+Capacitor Emission Systems (ID: 3423)                                  EK:          15,875   VK:          76,875    Differenz:          61,000
+Energy Grid Upgrades (ID: 3424)                                        EK:           4,000   VK:          80,975    Differenz:          76,975
+CPU Management (ID: 3426)                                              EK:           1,200   VK:          35,450    Differenz:          34,250
+Electronics Upgrades (ID: 3432)                                        EK:          50,000   VK:         102,500    Differenz:          52,500
+Capital Capacitor Emission Systems (ID: 24572)                         EK:       6,000,060   VK:      12,996,000    Differenz:       6,995,940
+Nanite Operation (ID: 28879)                                           EK:         701,401   VK:       1,025,000    Differenz:         323,599
+Nanite Interfacing (ID: 28880)                                         EK:       2,501,008   VK:       5,393,187    Differenz:       2,892,179
+Astrometrics (ID: 3412)                                                EK:         222,224   VK:         454,999    Differenz:         232,775
+Survey (ID: 3551)                                                      EK:             808   VK:           5,767    Differenz:           4,959
+Archaeology (ID: 13278)                                                EK:          41,000   VK:         224,999    Differenz:         183,999
+Hacking (ID: 21718)                                                    EK:           2,000   VK:          42,900    Differenz:          40,900
+Astrometric Rangefinding (ID: 25739)                                   EK:         360,000   VK:         461,250    Differenz:         101,250
+Astrometric Pinpointing (ID: 25810)                                    EK:         272,004   VK:         461,250    Differenz:         189,246
+Reprocessing (ID: 3385)                                                EK:          12,000   VK:          50,000    Differenz:          38,000
+Mining (ID: 3386)                                                      EK:             711   VK:          35,000    Differenz:          34,289
+Reprocessing Efficiency (ID: 3389)                                     EK:         150,043   VK:         287,000    Differenz:         136,957
+Astrogeology (ID: 3410)                                                EK:         364,001   VK:         461,250    Differenz:          97,249
+Deep Core Mining (ID: 11395)                                           EK:         400,033   VK:         512,500    Differenz:         112,467
+Arkonor Processing (ID: 12180)                                         EK:         200,002   VK:         384,375    Differenz:         184,373
+Bistot Processing (ID: 12181)                                          EK:         251,040   VK:         358,750    Differenz:         107,710
+Crokite Processing (ID: 12182)                                         EK:         250,000   VK:         333,125    Differenz:          83,125
+Dark Ochre Processing (ID: 12183)                                      EK:         206,000   VK:         281,875    Differenz:          75,875
+Gneiss Processing (ID: 12184)                                          EK:          11,000   VK:         256,250    Differenz:         245,250
+Hedbergite Processing (ID: 12185)                                      EK:          26,000   VK:         230,600    Differenz:         204,600
+Hemorphite Processing (ID: 12186)                                      EK:          25,000   VK:         205,000    Differenz:         180,000
+Jaspet Processing (ID: 12187)                                          EK:          63,251   VK:         179,375    Differenz:         116,124
+Kernite Processing (ID: 12188)                                         EK:          51,369   VK:         153,700    Differenz:         102,331
+Mercoxit Processing (ID: 12189)                                        EK:         326,400   VK:         409,999    Differenz:          83,599
+Omber Processing (ID: 12190)                                           EK:          26,000   VK:         128,000    Differenz:         102,000
+Plagioclase Processing (ID: 12191)                                     EK:          35,045   VK:          76,875    Differenz:          41,830
+Pyroxeres Processing (ID: 12192)                                       EK:          22,000   VK:         102,450    Differenz:          80,450
+Scordite Processing (ID: 12193)                                        EK:          11,072   VK:          51,250    Differenz:          40,178
+Veldspar Processing (ID: 12195)                                        EK:           3,498   VK:          25,625    Differenz:          22,127
+Scrapmetal Processing (ID: 12196)                                      EK:         201,000   VK:         306,999    Differenz:         105,999
+Ice Processing (ID: 18025)                                             EK:         280,900   VK:         399,000    Differenz:         118,100
+Mining Upgrades (ID: 22578)                                            EK:           9,100   VK:          82,000    Differenz:          72,900
+Salvaging (ID: 25863)                                                  EK:         800,600   VK:       1,020,000    Differenz:         219,400
+Biology (ID: 3405)                                                     EK:           2,200   VK:          25,625    Differenz:          23,425
+Cybernetics (ID: 3411)                                                 EK:           8,000   VK:          76,875    Differenz:          68,875
+Amarr Electronic Systems (ID: 30536)                                   EK:       3,550,013   VK:       5,100,000    Differenz:       1,549,987
+Amarr Offensive Systems (ID: 30537)                                    EK:       3,600,101   VK:       5,100,000    Differenz:       1,499,899
+Amarr Propulsion Systems (ID: 30538)                                   EK:       3,500,192   VK:       5,100,000    Differenz:       1,599,808
+Amarr Engineering Systems (ID: 30539)                                  EK:       1,500,000   VK:       5,100,000    Differenz:       3,600,000
+Gallente Electronic Systems (ID: 30541)                                EK:       3,931,413   VK:       5,100,000    Differenz:       1,168,587
+Caldari Electronic Systems (ID: 30542)                                 EK:       4,003,142   VK:       5,100,000    Differenz:       1,096,858
+Caldari Defensive Systems (ID: 30544)                                  EK:       4,000,015   VK:       5,100,000    Differenz:       1,099,985
+Minmatar Defensive Systems (ID: 30545)                                 EK:       4,000,000   VK:       5,079,999    Differenz:       1,079,999
+Gallente Engineering Systems (ID: 30546)                               EK:       3,901,111   VK:       5,100,000    Differenz:       1,198,889
+Minmatar Engineering Systems (ID: 30547)                               EK:       3,900,004   VK:       5,100,000    Differenz:       1,199,996
+Minmatar Propulsion Systems (ID: 30554)                                EK:       3,001,160   VK:       5,100,000    Differenz:       2,098,840
+Planetology (ID: 2406)                                                 EK:         600,100   VK:       1,025,000    Differenz:         424,900
+Interplanetary Consolidation (ID: 2495)                                EK:         300,003   VK:         512,500    Differenz:         212,497
+Command Center Upgrades (ID: 2505)                                     EK:         400,200   VK:         512,500    Differenz:         112,300
+Remote Sensing (ID: 13279)                                             EK:          31,011   VK:         299,821    Differenz:         268,810
+Hornet I (ID: 2464)                                                    EK:           2,530   VK:           7,789    Differenz:           5,259
+Warrior I (ID: 2486)                                                   EK:           7,222   VK:           9,997    Differenz:           2,775
+Civilian Mining Drone (ID: 1202)                                       EK:             550   VK:           5,999    Differenz:           5,449
+Praetor EV-900 (ID: 22572)                                             EK:          90,000   VK:         187,400    Differenz:          97,399
+Acolyte EV-300 (ID: 23659)                                             EK:           2,017   VK:           3,198    Differenz:           1,181
+Infiltrator EV-600 (ID: 23702)                                         EK:          30,026   VK:          39,999    Differenz:           9,973
+Wasp EC-900 (ID: 23473)                                                EK:          68,002   VK:          98,189    Differenz:          30,187
+Ogre SD-900 (ID: 23506)                                                EK:          29,593   VK:          38,995    Differenz:           9,402
+Praetor TD-900 (ID: 23510)                                             EK:          35,000   VK:         173,099    Differenz:         138,099
+Berserker TP-900 (ID: 23512)                                           EK:          22,114   VK:          89,999    Differenz:          67,885
+Vespa EC-600 (ID: 23705)                                               EK:          32,012   VK:          43,769    Differenz:          11,757
+Hammerhead SD-600 (ID: 23713)                                          EK:          13,000   VK:          26,998    Differenz:          13,998
+Hobgoblin SD-300 (ID: 23715)                                           EK:             552   VK:           2,390    Differenz:           1,838
+Valkyrie TP-600 (ID: 23721)                                            EK:          15,821   VK:          55,996    Differenz:          40,175
+Warrior TP-300 (ID: 23723)                                             EK:           4,202   VK:          14,999    Differenz:          10,797
+Infiltrator TD-600 (ID: 23725)                                         EK:           5,791   VK:          18,000    Differenz:          12,209
+Acolyte TD-300 (ID: 23727)                                             EK:           2,500   VK:           3,500    Differenz:           1,000
+Heavy Shield Maintenance Bot I (ID: 22765)                             EK:         150,000   VK:         254,100    Differenz:         104,100
+Heavy Armor Maintenance Bot I (ID: 23523)                              EK:         140,101   VK:         178,659    Differenz:          38,558
+Medium Armor Maintenance Bot I (ID: 23709)                             EK:          33,279   VK:          44,999    Differenz:          11,719
+Light Armor Maintenance Bot I (ID: 23711)                              EK:          10,006   VK:          16,000    Differenz:           5,994
+Light Shield Maintenance Bot I (ID: 23719)                             EK:          12,001   VK:          16,477    Differenz:           4,476
+Heavy Hull Maintenance Bot I (ID: 33671)                               EK:         181,007   VK:         268,592    Differenz:          87,585
+Medium Hull Maintenance Bot I (ID: 33704)                              EK:          52,006   VK:          77,000    Differenz:          24,994
+Light Hull Maintenance Bot I (ID: 33706)                               EK:           4,250   VK:           9,930    Differenz:           5,680
+Berserker SW-900 (ID: 23536)                                           EK:          26,020   VK:          74,950    Differenz:          48,930
+Valkyrie SW-600 (ID: 23729)                                            EK:          17,050   VK:          47,479    Differenz:          30,429
+Warrior SW-300 (ID: 23731)                                             EK:           9,002   VK:          20,001    Differenz:          10,999
+Shadow (ID: 2948)                                                      EK:     705,939,389   VK:     950,000,000    Differenz:     244,060,611
+Tengu Electronics - Obfuscation Manifold (ID: 30046)                   EK:      48,626,000   VK:      69,910,000    Differenz:      21,284,000
+Proteus Electronics - Friction Extension Processor (ID: 30056)         EK:      50,033,007   VK:      63,840,247    Differenz:      13,807,240
+Legion Offensive - Drone Synthesis Projector (ID: 30117)               EK:      46,077,024   VK:      59,860,030    Differenz:      13,783,006
+Proteus Propulsion - Wake Limiter (ID: 30096)                          EK:      36,223,046   VK:      49,999,989    Differenz:      13,776,944
+Limited Ocular Filter - Beta (ID: 14295)                               EK:       4,200,001   VK:       5,500,000    Differenz:       1,299,999
+Limited Cybernetic Subprocessor - Beta (ID: 14298)                     EK:       4,100,100   VK:       5,198,000    Differenz:       1,097,900
